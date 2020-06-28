@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
-I am a PhD student in [David Haig](https://haiggroup.oeb.harvard.edu/)'s lab at Harvard researching evolutionary biology. Before this, I graduated from Yale with a BS in Biology, advised by [Leo Buss](https://eeb.yale.edu/people/faculty-affiliated/leo-buss) and [Rick Prum](https://prumlab.yale.edu/).
+I am a PhD student in [David Haig](https://haiggroup.oeb.harvard.edu/)'s lab at Harvard researching evolutionary biology. Before this, I graduated from Yale with a BS in Biology, advised by [Leo Buss](https://eeb.yale.edu/people/faculty-affiliated/leo-buss) and [Rick Prum](https://prumlab.yale.edu/), and received an MPhil in Geography & the Environment from Oxford University as a Rhodes Scholar, advised by [Cameron Hepburn](https://www.cameronhepburn.com/).
 
 *My Research Interests*
 -----
