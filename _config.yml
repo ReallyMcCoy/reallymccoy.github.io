@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dakota McCoy / Site Title"
+title                    : "Dakota E. McCoy"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Biology rules"
+name                     : &name "Dakota McCoy"
+description              : &description "I am a PhD student researching evolutionary biology."
 url                      : https://reallymccoy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "reallymccoy/reallymccoy.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"# "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
