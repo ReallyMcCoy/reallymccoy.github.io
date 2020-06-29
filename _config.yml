@@ -50,8 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # Colors
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+theme: minimal
 
 # SEO Related
 google_site_verification :
