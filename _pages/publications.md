@@ -1,5 +1,5 @@
 ---
-permalink: /pubs/
+permalink: /publications/
 author_profile: true
 redirect_from:
   - /pubs
