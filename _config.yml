@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dakota McCoy"
   avatar           : "cropped headshot.png"
-  bio              : "PhD student in evolutionary biology"
-  location         : "Harvard University"
+  bio              : "PhD student in evolutionary biology at Harvard University"
+  location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=vH6To6MAAAAJ&hl=en"
