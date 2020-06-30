@@ -29,12 +29,11 @@ redirect_from:
   </p>
   
 <p style="margin-left: 40px; text-indent: -40px;">
-  <img src="/images/Paradise_Tanager_Cover.jpg" width="100" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/><b>Dakota E McCoy</b> and Richard O Prum. 2019. “Convergent evolution of super black plumage near bright color in 15 bird families.” <i>Journal of Experimental Biology</i>, 222, 18, Pp. jeb208140.\
-  
-  * cover image (right)
+  <img src="/images/Paradise_Tanager_Cover.jpg" width="100" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/><b>Dakota E McCoy</b> and Richard O Prum. 2019. “Convergent evolution of super black plumage near bright color in 15 bird families.” <i>Journal of Experimental Biology</i>, 222, 18, Pp. jeb208140. <br>
+  <ul>
+  <li>cover image (right)</li>
+</ul>
 </p>
-
- 
 
 <p style="margin-left: 40px; text-indent: -40px;">
 Rachael Miller, Anna Frohnwieser, Martina Schiestl, <b>Dakota E McCoy</b>, Russell D Gray, Alex H Taylor, and Nicola S Clayton. 2019. “Delayed gratification in New Caledonian crows and young children: influence of reward type and visibility.” <i>Animal cognition</i>, Pp. 1-15.
