@@ -10,7 +10,7 @@ redirect_from:
 ## 2020
 
 <p style="margin-left: 40px; text-indent: -40px;">
-  <b> Dakota E McCoy</b> and David Haig. 2020. “Embryo Selection and Mate Choice: Can ‘Honest Signals’ Be Trusted?” <i>Trends in Ecology & Evolution</i>, 35 (4), 308-318. [<a href="https://arxiv.org/pdf/2001.03632.pdf">LINK</a>] to paper; [<a href="/files/Mate_Choice_Embryo_Selection_TREE_2020.pdf">PDF version</a>]
+  <b> Dakota E McCoy</b> and David Haig. 2020. “Embryo Selection and Mate Choice: Can ‘Honest Signals’ Be Trusted?” <i>Trends in Ecology & Evolution</i>, 35 (4), 308-318. [<a href="https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30344-1">LINK</a>] to paper; [<a href="/files/Mate_Choice_Embryo_Selection_TREE_2020.pdf">PDF version</a>]
 </p>
 
 
@@ -18,16 +18,16 @@ redirect_from:
 ## 2019
 
 <p style="margin-left: 40px; text-indent: -40px;">
-  <img src="/images/Peacock_Spider_Cover.jpg" width="150" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/><b>Dakota E McCoy</b>, Victoria E McCoy, Nikolaj K Mandsberg, Anna V Shneidman, Joanna Aizenberg, Richard O. Prum, and David Haig. 2019. “Structurally assisted super black in colourful peacock spiders.” <i>Proceedings of the Royal Society B</i>, 286, 1902, Pp. 20190589. [<a href="https://arxiv.org/pdf/2001.03632.pdf">LINK</a>] to paper; [<a href="/files/Super_Black_Peacock_Spiders_ProcB_2019.pdf">PDF version</a>]
+  <img src="/images/Peacock_Spider_Cover.jpg" width="150" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/><b>Dakota E McCoy</b>, Victoria E McCoy, Nikolaj K Mandsberg, Anna V Shneidman, Joanna Aizenberg, Richard O. Prum, and David Haig. 2019. “Structurally assisted super black in colourful peacock spiders.” <i>Proceedings of the Royal Society B</i>, 286, 1902, Pp. 20190589. [<a href="https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.0589">LINK</a>] to paper; [<a href="/files/Super_Black_Peacock_Spiders_ProcB_2019.pdf">PDF version</a>]
   </p>
   
   
 <p style="margin-left: 40px; text-indent: -40px;">
-<b>Dakota E McCoy</b>, Martina Schiestl, Patrick Neilands, Rebecca Hassall, Russell D Gray, and Alex H Taylor. 2019. “New Caledonian Crows Behave Optimistically after Using Tools.” <i>Current Biology</i> 29 (16), 2737-2742. e3. [<a href="https://arxiv.org/pdf/2001.03632.pdf">LINK</a>] to paper; [<a href="/files/New_Caledonian_Crows_Optimistic_Tool_Use_Current_Biology_2019.pdf">PDF version</a>]
+<b>Dakota E McCoy</b>, Martina Schiestl, Patrick Neilands, Rebecca Hassall, Russell D Gray, and Alex H Taylor. 2019. “New Caledonian Crows Behave Optimistically after Using Tools.” <i>Current Biology</i> 29 (16), 2737-2742. e3. [<a href="https://www.cell.com/current-biology/fulltext/S0960-9822(19)30840-1">LINK</a>] to paper; [<a href="/files/New_Caledonian_Crows_Optimistic_Tool_Use_Current_Biology_2019.pdf">PDF version</a>]
   </p>
   
 <p style="margin-left: 40px; text-indent: -40px;">
-  <img src="/images/Paradise_Tanager_Cover.jpg" width="150" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/><b>Dakota E McCoy</b> and Richard O Prum. 2019. “Convergent evolution of super black plumage near bright color in 15 bird families.” <i>Journal of Experimental Biology</i>, 222, 18, Pp. jeb208140. [<a href="https://arxiv.org/pdf/2001.03632.pdf">LINK</a>] to paper; [<a href="/files/Super_Black_Birds_Convergent_Evolution_JEB_2019.pdf">PDF version</a>]
+  <img src="/images/Paradise_Tanager_Cover.jpg" width="150" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/><b>Dakota E McCoy</b> and Richard O Prum. 2019. “Convergent evolution of super black plumage near bright color in 15 bird families.” <i>Journal of Experimental Biology</i>, 222, 18, Pp. jeb208140. [<a href="https://jeb.biologists.org/content/222/18/jeb208140.abstract">LINK</a>] to paper; [<a href="/files/Super_Black_Birds_Convergent_Evolution_JEB_2019.pdf">PDF version</a>]
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
@@ -35,27 +35,27 @@ Rachael Miller, Anna Frohnwieser, Martina Schiestl, <b>Dakota E McCoy</b>, Russe
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
-  <img src="/images/Marmoset_Cover.jpg" width="150" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/><b>Dakota E McCoy</b>, Brett M Frye, Jennifer Kotler, Judith M Burkart, Monika Burns, Amanda Embury, Simon Eyre, Peter Galbusera, Jacqui Hooper, and Arun Idoe. 2019. “A comparative study of litter size and sex composition in a large dataset of callitrichine monkeys.” <i>American journal of primatology</i>, Pp. e23038. [<a href="https://arxiv.org/pdf/2001.03632.pdf">LINK</a>] to paper; [<a href="/files/Callitrichine_Demographics_Am_J_Primatology_2019.pdf">PDF version</a>] 
+  <img src="/images/Marmoset_Cover.jpg" width="150" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/><b>Dakota E McCoy</b>, Brett M Frye, Jennifer Kotler, Judith M Burkart, Monika Burns, Amanda Embury, Simon Eyre, Peter Galbusera, Jacqui Hooper, and Arun Idoe. 2019. “A comparative study of litter size and sex composition in a large dataset of callitrichine monkeys.” <i>American journal of primatology</i>, Pp. e23038. [<a href="https://onlinelibrary.wiley.com/doi/10.1002/ajp.23038">LINK</a>] to paper; [<a href="/files/Callitrichine_Demographics_Am_J_Primatology_2019.pdf">PDF version</a>] 
   </p> 
 
 
   
 ## 2018
 <p style="margin-left: 40px; text-indent: -40px;">
-  <b>Dakota E McCoy</b>*, Teresa Feo*, Todd Alan Harvey, and Richard O Prum. 2018. “Structural absorption by barbule microstructures of super black bird of paradise feathers.” <i>Nature communications</i>, 9, 1, Pp. 1. [<a href="https://arxiv.org/pdf/2001.03632.pdf">LINK</a>] to paper; [<a href="/files/Super_Black_Birds_of_Paradise_NComms_2018.pdf">PDF version</a>] 
+  <b>Dakota E McCoy</b>*, Teresa Feo*, Todd Alan Harvey, and Richard O Prum. 2018. “Structural absorption by barbule microstructures of super black bird of paradise feathers.” <i>Nature communications</i>, 9, 1, Pp. 1. [<a href="https://www.nature.com/articles/s41467-017-02088-w">LINK</a>] to paper; [<a href="/files/Super_Black_Birds_of_Paradise_NComms_2018.pdf">PDF version</a>] 
   </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
-  <b>Dakota E. McCoy</b>. 2018. “Evolutionary Change.” In <i>Encyclopedia of Evolutionary Psychological Science</i>, edited by Todd K. Shackelford and Viviana A. Weekes-Shackelford, Pp. 1–16. Cham: Springer International Publishing. 
+  <b>Dakota E. McCoy</b>. 2018. “Evolutionary Change.” In <i>Encyclopedia of Evolutionary Psychological Science</i>, edited by Todd K. Shackelford and Viviana A. Weekes-Shackelford, Pp. 1–16. Cham: Springer International Publishing. [<a href="https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-16999-6_2094-1">LINK</a>] to paper.
   </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
-  <b>Dakota E. McCoy</b>. 2018. “Game Theory as a Foundation of Evolutionary Psychology.” In <i>Encyclopedia of Evolutionary Psychological Science</i>, edited by Todd K. Shackelford and Viviana A. Weekes-Shackelford, Pp. 1–17. Cham: Springer International Publishing. Publisher's Version
+  <b>Dakota E. McCoy</b>. 2018. “Game Theory as a Foundation of Evolutionary Psychology.” In <i>Encyclopedia of Evolutionary Psychological Science</i>, edited by Todd K. Shackelford and Viviana A. Weekes-Shackelford, Pp. 1–17. Cham: Springer International Publishing. [<a href="https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-16999-6_3577-1">LINK</a>] to paper.
   </p>
 
 ## Earlier
 <p style="margin-left: 40px; text-indent: -40px;">
-  Matthew B Petelle, <b>Dakota E McCoy</b>, Vanessa Alejandro, Julien GA Martin, and Daniel T Blumstein. 2013. “Development of boldness and docility in yellow-bellied marmots.” Animal Behaviour, 86, 6, Pp. 1147–1154. [<a href="https://arxiv.org/pdf/2001.03632.pdf">LINK</a>] to paper; [<a href="/files/Boldness_and_Docility_Marmots_AnBehav_2013.pdf">PDF version</a>] 
+  Matthew B Petelle, <b>Dakota E McCoy</b>, Vanessa Alejandro, Julien GA Martin, and Daniel T Blumstein. 2013. “Development of boldness and docility in yellow-bellied marmots.” Animal Behaviour, 86, 6, Pp. 1147–1154. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S000334721300420X">LINK</a>] to paper; [<a href="/files/Boldness_and_Docility_Marmots_AnBehav_2013.pdf">PDF version</a>] 
 2012
 </p>
 
