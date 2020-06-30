@@ -12,7 +12,7 @@ redirect_from:
 <p style="margin-left: 40px; text-indent: -40px;">
   <b> Dakota E McCoy</b> and David Haig. 2020. “Embryo Selection and Mate Choice: Can ‘Honest Signals’ Be Trusted?” <i>Trends in Ecology & Evolution</i>, 35 (4), 308-318.
 </p>
-<img src="/images/Paradise_Tanager_Cover.jpg" width="100" alt="Cover photo of Paradise Tanager" style="float: right;"/>
+<img src="/images/Paradise_Tanager_Cover.jpg" width="100" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 7px;margin-top: 7px;"/>
 
 
 ## 2019
