@@ -19,23 +19,28 @@ redirect_from:
 
 <p style="margin-left: 40px; text-indent: -40px;">
   <img src="/images/Peacock_Spider_Cover.jpg" width="100" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/><b>Dakota E McCoy</b>, Victoria E McCoy, Nikolaj K Mandsberg, Anna V Shneidman, Joanna Aizenberg, Richard O. Prum, and David Haig. 2019. “Structurally assisted super black in colourful peacock spiders.” <i>Proceedings of the Royal Society B</i>, 286, 1902, Pp. 20190589.
+  - cover image
   </p>
   
-<p style="margin-left: 40px; text-indent: -40px;">
-  <img src="/images/Paradise_Tanager_Cover.jpg" width="100" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/><b>Dakota E McCoy</b> and Richard O Prum. 2019. “Convergent evolution of super black plumage near bright color in 15 bird families.” <i>Journal of Experimental Biology</i>, 222, 18, Pp. jeb208140.
-</p>
-
 <p style="margin-left: 40px; text-indent: -40px;">
 <b>Dakota E McCoy</b>, Martina Schiestl, Patrick Neilands, Rebecca Hassall, Russell D Gray, and Alex H Taylor. 2019. “New Caledonian Crows Behave Optimistically after Using Tools.” <i>Current Biology</i> 29 (16), 2737-2742. e3.
   </p>
   
 <p style="margin-left: 40px; text-indent: -40px;">
-  <img src="/images/Marmoset_Cover.jpg" width="100" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/><b>Dakota E McCoy</b>, Brett M Frye, Jennifer Kotler, Judith M Burkart, Monika Burns, Amanda Embury, Simon Eyre, Peter Galbusera, Jacqui Hooper, and Arun Idoe. 2019. “A comparative study of litter size and sex composition in a large dataset of callitrichine monkeys.” <i>American journal of primatology</i>, Pp. e23038. 
-  </p> 
+  <img src="/images/Paradise_Tanager_Cover.jpg" width="100" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/><b>Dakota E McCoy</b> and Richard O Prum. 2019. “Convergent evolution of super black plumage near bright color in 15 bird families.” <i>Journal of Experimental Biology</i>, 222, 18, Pp. jeb208140.
+</p>
+*cover image
+ 
 
 <p style="margin-left: 40px; text-indent: -40px;">
 Rachael Miller, Anna Frohnwieser, Martina Schiestl, <b>Dakota E McCoy</b>, Russell D Gray, Alex H Taylor, and Nicola S Clayton. 2019. “Delayed gratification in New Caledonian crows and young children: influence of reward type and visibility.” <i>Animal cognition</i>, Pp. 1-15.
 </p>
+
+<p style="margin-left: 40px; text-indent: -40px;">
+  <img src="/images/Marmoset_Cover.jpg" width="100" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/><b>Dakota E McCoy</b>, Brett M Frye, Jennifer Kotler, Judith M Burkart, Monika Burns, Amanda Embury, Simon Eyre, Peter Galbusera, Jacqui Hooper, and Arun Idoe. 2019. “A comparative study of litter size and sex composition in a large dataset of callitrichine monkeys.” <i>American journal of primatology</i>, Pp. e23038. 
+  - cover image
+  </p> 
+
   
 ## 2018
 <p style="margin-left: 40px; text-indent: -40px;">
