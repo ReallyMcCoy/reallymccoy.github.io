@@ -19,16 +19,17 @@ redirect_from:
 
 <p style="margin-left: 40px; text-indent: -40px;">
   <img src="/images/Peacock_Spider_Cover.jpg" width="100" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/><b>Dakota E McCoy</b>, Victoria E McCoy, Nikolaj K Mandsberg, Anna V Shneidman, Joanna Aizenberg, Richard O. Prum, and David Haig. 2019. “Structurally assisted super black in colourful peacock spiders.” <i>Proceedings of the Royal Society B</i>, 286, 1902, Pp. 20190589.
-  
-  * cover image (right)
   </p>
+  
+    
+  * cover image (right)
   
 <p style="margin-left: 40px; text-indent: -40px;">
 <b>Dakota E McCoy</b>, Martina Schiestl, Patrick Neilands, Rebecca Hassall, Russell D Gray, and Alex H Taylor. 2019. “New Caledonian Crows Behave Optimistically after Using Tools.” <i>Current Biology</i> 29 (16), 2737-2742. e3.
   </p>
   
 <p style="margin-left: 40px; text-indent: -40px;">
-  <img src="/images/Paradise_Tanager_Cover.jpg" width="100" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/><b>Dakota E McCoy</b> and Richard O Prum. 2019. “Convergent evolution of super black plumage near bright color in 15 bird families.” <i>Journal of Experimental Biology</i>, 222, 18, Pp. jeb208140.
+  <img src="/images/Paradise_Tanager_Cover.jpg" width="100" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/><b>Dakota E McCoy</b> and Richard O Prum. 2019. “Convergent evolution of super black plumage near bright color in 15 bird families.” <i>Journal of Experimental Biology</i>, 222, 18, Pp. jeb208140.\
   
   * cover image (right)
 </p>
