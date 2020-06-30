@@ -27,7 +27,8 @@ redirect_from:
 <b>Dakota E McCoy</b>, Martina Schiestl, Patrick Neilands, Rebecca Hassall, Russell D Gray, and Alex H Taylor. 2019. “New Caledonian Crows Behave Optimistically after Using Tools.” <i>Current Biology</i> 29 (16), 2737-2742. e3.
   </p>
   
-<p style="margin-left: 40px; text-indent: -40px;"><b>Dakota E McCoy, Brett M Frye, Jennifer Kotler, Judith M Burkart, Monika Burns, Amanda Embury, Simon Eyre, Peter Galbusera, Jacqui Hooper, and Arun Idoe. 2019. “A comparative study of litter size and sex composition in a large dataset of callitrichine monkeys.” <i>American journal of primatology</i>, Pp. e23038. 
+<p style="margin-left: 40px; text-indent: -40px;">
+  <b>Dakota E McCoy</b>, Brett M Frye, Jennifer Kotler, Judith M Burkart, Monika Burns, Amanda Embury, Simon Eyre, Peter Galbusera, Jacqui Hooper, and Arun Idoe. 2019. “A comparative study of litter size and sex composition in a large dataset of callitrichine monkeys.” <i>American journal of primatology</i>, Pp. e23038. 
   </p> 
 
 <p style="margin-left: 40px; text-indent: -40px;">
