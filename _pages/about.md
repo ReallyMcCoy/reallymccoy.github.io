@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
-I am a PhD student in [David Haig](https://haiggroup.oeb.harvard.edu/)'s lab at Harvard, supported by the NDSEG Fellowship and the Ashford Fellowship. I researching evolutionary biology. 
+I am a PhD student in [David Haig](https://haiggroup.oeb.harvard.edu/)'s lab at Harvard, supported by the NDSEG Fellowship and the Ashford Fellowship. I researc evolutionary biology. 
 
 I am broadly interested in biomaterials, such as antireflective architecture in nature (super black birds and spiders), and evolutionary arms races and conflicts of interest (e.g., in sexual selection and pregnancy).
 
