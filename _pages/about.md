@@ -15,11 +15,12 @@ I am a PhD student in [David Haig](https://haiggroup.oeb.harvard.edu/)'s lab at 
 - biomaterials, such as antireflective architecture in nature (super black birds and spiders)
 - evolutionary arms races and conflicts of interest (e.g., in sexual selection and pregnancy)
 
+
 Before Harvard, I studied biology at Yale (advised by [Leo Buss](https://eeb.yale.edu/people/faculty-affiliated/leo-buss) and [Rick Prum](https://prumlab.yale.edu/)) and received an MPhil in enviromental policy from Oxford University as a Rhodes Scholar.
 
 About me
 ======
 
-<img src="/images/Maratus_speciosus_Jurgen_Otto.jpg" width="150" alt="Peacock Spider" href="https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.0589" style="float: right;margin-right: 2px;margin-top: 2px;"/>
+[![Peacock spiders have super black color](/images/Maratus_speciosus_Jurgen_Otto.jpg=50x)](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.0589)
 
 
