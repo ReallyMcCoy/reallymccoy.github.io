@@ -21,6 +21,6 @@ Before Harvard, I studied biology at Yale (advised by [Leo Buss](https://eeb.yal
 About me
 ======
 
-[![Peacock spiders have super black color](/images/Maratus_speciosus_Jurgen_Otto.jpg=50x)](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.0589)
+[![Peacock spiders have super black color](/images/Peacock_Spiders_Website.png)](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.0589)
 
 
