@@ -20,10 +20,12 @@ Before Harvard, I studied biology at Yale (advised by [Leo Buss](https://eeb.yal
 
 Research Topics
 ======
-
 *Super Black*
 -------
+[![Birds of Paradise have super black color](/images/Birds_of_Paradise_Website.png)](https://www.nature.com/articles/s41467-017-02088-w)
+Male birds-of-paradise, perhaps nature's most ornate and elaborate creatures, evolved ultra-dark super black framing brilliant color. Unlike typical feathers, the feathers of super black plumages have 3-D microstructures on their barbules which multiply scatter, and iteratively absorb, nearly all light. Click the image to learn more!
+
 
 [![Peacock spiders have super black color](/images/Peacock_Spiders_Website.png)](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.0589)
-Peacock spiders have evolved ultra-dark black color adjacent to their brilliant color patches. They are a remarkable convergence of form-- microlenses, used in nature on everything from plant leaves to moth eyes-- and function-- ultra black near bright color for color emphasis, aking to their ecological analogues (the Birds-of-Paradise). Click the image to learn more!
+Peacock spiders have evolved ultra-dark black color adjacent to their brilliant color patches. They are a remarkable convergence of form-- microlenses, used in nature on everything from plant leaves to moth eyes-- and function-- ultra black near bright color for color emphasis, akin to their ecological analogues (the Birds-of-Paradise). Click the image to learn more!
 
