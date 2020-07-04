@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dakota E. McCoy"
+title                    : "Research"
 title_separator          : "-"
 name                     : &name "Dakota McCoy"
-description              : &description "I am a PhD student researching evolutionary biology."
+description              : &description "I am a PhD student researching evolutionary biology. Email me at dakotamccoy[at]g[dot]harvard.edu"
 url                      : https://reallymccoy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "reallymccoy/reallymccoy.github.io"
