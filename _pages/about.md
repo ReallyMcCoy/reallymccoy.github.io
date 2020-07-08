@@ -42,6 +42,10 @@ Super black plumages evolved in birds from 15 families, with diverse morphology 
 [![Tanagers have microstructures to enhance pigment](/images/Tanagers_Website.png)](https://www.biorxiv.org/content/10.1101/799783v3)
 Male, but not female, tanager feathers have elaborate microstructures which amplify the saturation of red, orange, and yellow colors. These colors are produced by carotenoid pigments, classically thought to be honest signals of quality.
 
+**Embryo Selection and Mate Choice**
+[![Embryo selection and mate choice](/images/SignalsDegrade_Website.png)](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30344-1)
+Just as females screen potential mates under many metrics, human mothers unconsciously screen embryos for quality. ‘Examinees’ are under intense selection to improve test performance by exaggerating formerly ‘honest’ signals of quality. By the  ‘proxy treadmill’, new honest indicators arise while old degraded indicators linger, resulting in trait elaboration. Hormone signals during pregnancy show extreme evolutionary escalation (akin to elaborate mating displays).
+
 
 
 
