@@ -35,6 +35,13 @@ Peacock spiders have evolved ultra-dark black color adjacent to their brilliant 
 [![Many bird evolved super black color](/images/Convergent_Evolution_Birds_Website.png)](https://jeb.biologists.org/content/222/18/jeb208140)
 Super black plumages evolved in birds from 15 families, with diverse morphology underpinning the plumages. Several families convergently evolved similar morphologies (e.g., curved, uwpard-branching barbules). 
 
+*Honest Signals?*
+-------
+
+**Carotenoid Signals in Tanagers**
+[![Tanagers have microstructures to enhance pigment](/images/Tanagers_Website.png)](https://www.biorxiv.org/content/10.1101/799783v3)
+Male, but not female, tanager feathers have elaborate microstructures which amplify the saturation of red, orange, and yellow colors. These colors are produced by carotenoid pigments, classically thought to be honest signals of quality.
+
 
 
 
