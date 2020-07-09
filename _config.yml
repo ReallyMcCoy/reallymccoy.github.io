@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dakota E. McCoy"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Dakota E. McCoy"
 description              : &description "I am a PhD student researching evolutionary biology. Email me at dakotamccoy[at]g[dot]harvard.edu"
