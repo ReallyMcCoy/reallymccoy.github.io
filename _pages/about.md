@@ -46,6 +46,13 @@ Male, but not female, tanager feathers have elaborate microstructures which ampl
 [![Embryo selection and mate choice](/images/SignalsDegrade_Website.png)](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30344-1)
 Just as females screen potential mates under many metrics, human mothers unconsciously screen embryos for quality. ‘Examinees’ are under intense selection to improve test performance by exaggerating formerly ‘honest’ signals of quality. By the  ‘proxy treadmill’, new honest indicators arise while old degraded indicators linger, resulting in trait elaboration. Hormone signals during pregnancy show extreme evolutionary escalation (akin to elaborate mating displays).
 
+*Evolutionary Conflict & Biomedicine*
+-------
+
+**Marmosets: Conflict Between Twins**
+[![Marmosets](/images/Marmosets_Website.png)](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajp.23038)
+Primates are model organisms for questions of cooperation and conflict within families,and callitrichines (marmosets, tamarins, and lion tamarins) frequently bear litters of two or more. We compiled a large dataset of nine species of callitrichines (n  = 27,080 individuals) and found two indications of sibling conflict: (i) Singletons have higher survivorship than litter‐born monkeys and outperform their litter‐born peers on two measures of reproductive success, and (ii) offspring born into mixed‐sex litters reproductively outperform those born in all‐male or all‐female litters in some species, suggesting that same‐sex competition may limit fitness outcomes.
+
 
 
 
