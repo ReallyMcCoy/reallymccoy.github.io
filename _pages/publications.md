@@ -13,11 +13,6 @@ redirect_from:
   <b> Dakota E McCoy</b> and David Haig. 2020. “Embryo Selection and Mate Choice: Can ‘Honest Signals’ Be Trusted?” <i>Trends in Ecology & Evolution</i>, 35 (4), 308-318. [<a href="https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30344-1">LINK</a>] to paper; [<a href="/files/Mate_Choice_Embryo_Selection_TREE_2020.pdf">PDF version</a>]
 </p>
 
-<p style="margin-left: 40px; text-indent: -40px;">
-  Miller, R., Frohnwieser, A., Schiestl, M., <b>McCoy, D. E.</b>, Gray, R. D., Taylor, A. H., & Clayton, N. S. (2020). Delayed gratification in New Caledonian crows and young children: influence of reward type and visibility. <i>Animal cognition</i>, 23(1), 71-85.     [<a href="https://link.springer.com/article/10.1007/s10071-019-01317-7">LINK</a>] to paper; [<a href="/files/Delayed_Gratification_Crows_Paper.pdf">PDF version</a>]
-</p>
-
-
 
 ## 2019
 
@@ -35,8 +30,9 @@ redirect_from:
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
-Rachael Miller, Anna Frohnwieser, Martina Schiestl, <b>Dakota E McCoy</b>, Russell D Gray, Alex H Taylor, and Nicola S Clayton. 2019. “Delayed gratification in New Caledonian crows and young children: influence of reward type and visibility.” <i>Animal cognition</i>, Pp. 1-15.
+Rachael Miller, Anna Frohnwieser, Martina Schiestl, <b>Dakota E McCoy</b>, Russell D Gray, Alex H Taylor, and Nicola S Clayton. 2019. “Delayed gratification in New Caledonian crows and young children: influence of reward type and visibility.” <i>Animal cognition</i>, 23(1), 71-85. [<a href="https://link.springer.com/article/10.1007/s10071-019-01317-7">LINK</a>] to paper; [<a href="/files/Delayed_Gratification_Crows_Paper.pdf">PDF version</a>]
 </p>
+
 
 <p style="margin-left: 40px; text-indent: -40px;">
   <img src="/images/Marmoset_Cover.jpg" width="150" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/><b>Dakota E McCoy</b>, Brett M Frye, Jennifer Kotler, Judith M Burkart, Monika Burns, Amanda Embury, Simon Eyre, Peter Galbusera, Jacqui Hooper, and Arun Idoe. 2019. “A comparative study of litter size and sex composition in a large dataset of callitrichine monkeys.” <i>American journal of primatology</i>, Pp. e23038. [<a href="https://onlinelibrary.wiley.com/doi/10.1002/ajp.23038">LINK</a>] to paper; [<a href="/files/Callitrichine_Demographics_Am_J_Primatology_2019.pdf">PDF version</a>] 
