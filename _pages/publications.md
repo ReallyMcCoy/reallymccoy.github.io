@@ -14,7 +14,7 @@ redirect_from:
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
-  Miller, R., Frohnwieser, A., Schiestl, M., McCoy, D. E., Gray, R. D., Taylor, A. H., & Clayton, N. S. (2020). Delayed gratification in New Caledonian crows and young children: influence of reward type and visibility. <i>Animal cognition</i>, 23(1), 71-85.     [<a href="https://link.springer.com/article/10.1007/s10071-019-01317-7">LINK</a>] to paper; [<a href="/files/Delayed_Gratification_Crows_Paper.pdf">PDF version</a>]
+  Miller, R., Frohnwieser, A., Schiestl, M., <b>McCoy, D. E.</b>, Gray, R. D., Taylor, A. H., & Clayton, N. S. (2020). Delayed gratification in New Caledonian crows and young children: influence of reward type and visibility. <i>Animal cognition</i>, 23(1), 71-85.     [<a href="https://link.springer.com/article/10.1007/s10071-019-01317-7">LINK</a>] to paper; [<a href="/files/Delayed_Gratification_Crows_Paper.pdf">PDF version</a>]
 </p>
 
 
