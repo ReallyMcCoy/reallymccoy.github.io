@@ -13,6 +13,10 @@ redirect_from:
   <b> Dakota E McCoy</b> and David Haig. 2020. “Embryo Selection and Mate Choice: Can ‘Honest Signals’ Be Trusted?” <i>Trends in Ecology & Evolution</i>, 35 (4), 308-318. [<a href="https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30344-1">LINK</a>] to paper; [<a href="/files/Mate_Choice_Embryo_Selection_TREE_2020.pdf">PDF version</a>]
 </p>
 
+<p style="margin-left: 40px; text-indent: -40px;">
+  Miller, R., Frohnwieser, A., Schiestl, M., McCoy, D. E., Gray, R. D., Taylor, A. H., & Clayton, N. S. (2020). Delayed gratification in New Caledonian crows and young children: influence of reward type and visibility. <i>Animal cognition</i>, 23(1), 71-85.     [<a href="https://link.springer.com/article/10.1007/s10071-019-01317-7">LINK</a>] to paper; [<a href="/files/Delayed_Gratification_Crows_Paper.pdf">PDF version</a>]
+</p>
+
 
 
 ## 2019
@@ -46,11 +50,11 @@ Rachael Miller, Anna Frohnwieser, Martina Schiestl, <b>Dakota E McCoy</b>, Russe
   </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
-  <b>Dakota E. McCoy</b>. 2018. “Evolutionary Change.” In <i>Encyclopedia of Evolutionary Psychological Science</i>, edited by Todd K. Shackelford and Viviana A. Weekes-Shackelford, Pp. 1–16. Cham: Springer International Publishing. [<a href="https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-16999-6_2094-1">LINK</a>] to paper.
+  <b>Dakota E. McCoy</b>. 2018. “Evolutionary Change.” In <i>Encyclopedia of Evolutionary Psychological Science</i>, edited by Todd K. Shackelford and Viviana A. Weekes-Shackelford, Pp. 1–16. Cham: Springer International Publishing. [<a href="https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-16999-6_2094-1">LINK</a>] to paper; [<a href="/files/McCoy2018_ReferenceWorkEntry_EvolutionaryChange.pdf">PDF version</a>] 
   </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
-  <b>Dakota E. McCoy</b>. 2018. “Game Theory as a Foundation of Evolutionary Psychology.” In <i>Encyclopedia of Evolutionary Psychological Science</i>, edited by Todd K. Shackelford and Viviana A. Weekes-Shackelford, Pp. 1–17. Cham: Springer International Publishing. [<a href="https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-16999-6_3577-1">LINK</a>] to paper.
+  <b>Dakota E. McCoy</b>. 2018. “Game Theory as a Foundation of Evolutionary Psychology.” In <i>Encyclopedia of Evolutionary Psychological Science</i>, edited by Todd K. Shackelford and Viviana A. Weekes-Shackelford, Pp. 1–17. Cham: Springer International Publishing. [<a href="https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-16999-6_3577-1">LINK</a>] to paper; [<a href="/files/McCoy2018_ReferenceWorkEntry_GameTheoryAsAFoundationOfEvolu.pdf">PDF version</a>] 
   </p>
 
 ## Earlier
