@@ -7,6 +7,14 @@ redirect_from:
 
 {% include base_path %}
 
+<html>
+<p>
+<a href="https://www.w3schools.com">
+<img border="0" alt="W3Schools" src="logo_w3s.gif" width="100" height="100">
+</p>
+
+</body>
+</html>
 ## White Papers and Public Comments
 
 Cattaneo, L, <b>McCoy, D.E.</b>, Matchett, J., Pollack, E., and Saltzman, V.. (2020). [Waste-to Energy and Community Resiliency: Quapaw Nation, OK](http://clinics.law.harvard.edu/environment/files/2019/05/Team-2-Quapaw-Imp.Plan-FS-FINAL-reduced-size.pdf). Harvard Law School; Climate Solutions Living Lab.
@@ -33,7 +41,7 @@ Kolb, R. and <b>McCoy, D.E.</b> (August 3, 2017) [Gene-editing tool raises quest
 
 <b>McCoy, D.E.</b> (June 2, 2017). [Pittsburgh isn't the city you think it is, Mr. President](https://www.pennlive.com/opinion/2017/06/pittsburgh_isnt_the_city_you_t.html). PennLive. 
 
-<b>McCoy, D.E.</b> (February 17, 2017). [Climate & business: Letter to the Editor.](http://triblive.com/opinion/letters/11939678-74/climate-business-coal) Pittsburgh Tribune Review (TribLive.com). Available at: 
+<b>McCoy, D.E.</b> (February 17, 2017). [Climate & business: Letter to the Editor.](http://triblive.com/opinion/letters/11939678-74/climate-business-coal) Pittsburgh Tribune Review (TribLive.com).
 
 
 
