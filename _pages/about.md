@@ -18,8 +18,6 @@ I am a PhD student in [David Haig](https://haiggroup.oeb.harvard.edu/)'s lab at 
 You can view my full CV [here](https://reallymccoy.github.io/files/Dakota_McCoy_CV.pdf) and my one-page resume [here](https://reallymccoy.github.io/files/Dakota_McCoy_OnePage_Resume.pdf).
 
 
-Research Topics
-======
 
 *Super Black*
 -------
