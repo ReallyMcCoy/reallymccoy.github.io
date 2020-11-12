@@ -53,13 +53,3 @@ Just as females screen potential mates under many metrics, human mothers unconsc
 [![Marmosets](/images/Marmosets_Website.png)](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajp.23038)
 Primates are model organisms for questions of cooperation and conflict within families,and callitrichines (marmosets, tamarins, and lion tamarins) frequently bear litters of two or more. We compiled a large dataset of nine species of callitrichines (n  = 27,080 individuals) and found two indications of sibling conflict: (i) Singletons have higher survivorship than litter‐born monkeys and outperform their litter‐born peers on two measures of reproductive success, and (ii) offspring born into mixed‐sex litters reproductively outperform those born in all‐male or all‐female litters in some species, suggesting that same‐sex competition may limit fitness outcomes.
 
-
-**Sample**
-
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|**blah** <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-
-
