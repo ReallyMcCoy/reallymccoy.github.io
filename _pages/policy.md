@@ -14,7 +14,7 @@ redirect_from:
   <img src="/images/CovidLoanTracker.png" alt="CovidLoanTracker" width="17%">
 </a>
 <a href="https://www.facebook.com/HarvardGrEAT" target="_blank">
-  <img src="/images/CSLL.png" alt="ClimateSolutionsLivingLab" width="24%">
+  <img src="/images/CSLL.png" alt="ClimateSolutionsLivingLab" width="23%">
 </a>
 
 
