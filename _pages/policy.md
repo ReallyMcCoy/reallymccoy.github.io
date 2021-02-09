@@ -8,7 +8,7 @@ redirect_from:
 {% include base_path %}
 
 <a href="https://www.facebook.com/HarvardGrEAT" target="_blank">
-  <img src="/images/GSAS_EnvActTeam.jpg" alt="HarvardGrEAT" width="33%">
+  <img src="/images/HarvardGrEAT.png" alt="HarvardGrEAT" width="30%">
 </a>
 <a href="https://www.covidloantracker.com/" target="_blank">
   <img src="/images/CovidLoanTracker.png" alt="CovidLoanTracker" width="17%">
