@@ -15,6 +15,19 @@ redirect_from:
          <img src="/images/GSAS_EnvActTeam.jpg" alt="hi" class="inline" width="50%">
 </a>
 
+<div class="row">
+  <div class="column">
+    <a href="https://www.covidloantracker.com">
+      <img src="/images/CovidLoanTracker.png" alt="CovidLoanTracker" style="width:100%">
+    </a>
+  </div>
+  <div class="column">
+    <a href="https://www.facebook.com/HarvardGrEAT">
+      <img src="/images/GSAS_EnvActTeam.jpg" alt="HarvardGrEAT" style="width:100%">
+    </a>
+  </div>
+</div>
+
 
 ## White Papers and Public Comments
 
