@@ -13,7 +13,8 @@ About me
 
 I am a PhD student in [David Haig](https://haiggroup.oeb.harvard.edu/)'s lab at Harvard, supported by the NDSEG Fellowship and the Ashford Fellowship. Before this, I studied biology at Yale (advised by [Leo Buss](https://eeb.yale.edu/people/faculty-affiliated/leo-buss) and [Rick Prum](https://prumlab.yale.edu/)) and received an MPhil in enviromental policy from Oxford University as a Rhodes Scholar. I am broadly interested in:
 - Optics and Light-Harnessing in Nature: how living creatures-- such as super black birds, super black spiders, and photosynthetic reef animals-- manipulate light
-- Game Theory in the Life Sciences: arms races and conflicts of interest (e.g., in pregnancy and at an ecosystem level)  
+- Game Theory in the Life Sciences: arms races and conflicts of interest (e.g., in pregnancy and at an ecosystem level) 
+- Ecosystem Stability: what makes ecosystems stable versus susceptible to environmental change?
 
 You can view my full CV [here](https://reallymccoy.github.io/files/Dakota_McCoy_CV.pdf) and my one-page resume [here](https://reallymccoy.github.io/files/Dakota_McCoy_OnePage_Resume.pdf).
 
