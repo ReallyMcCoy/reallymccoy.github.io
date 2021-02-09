@@ -14,15 +14,15 @@ About me
 The physical and biological worlds are inextricably linked. To harness sunlight, animals have evolved a wide array of adaptations—natural technologies—many of which have inspired innovations in sustainable solar technologies. Marrying applied physics with biological methods, I study the functions and origins of these optical adaptations. My research program has also included studies on ecosystem health, applying data science to inform policy. My work has driven novel solar technology research, inspired recent studies of light manipulation in several animals, and will soon appear in a forthcoming United Nations booklet on bioinspiration. First-author papers from my projects have appeared in *Nature Communications*, *Trends in Ecology and Evolution*, and *Current Biology*.
 
 Currently, I am a PhD student in [David Haig](https://haiggroup.oeb.harvard.edu/)'s lab at Harvard, supported by the NDSEG Fellowship and the Ashford Fellowship. Before this, I studied biology at Yale (advised by [Leo Buss](https://eeb.yale.edu/people/faculty-affiliated/leo-buss) and [Rick Prum](https://prumlab.yale.edu/)) and received an MPhil in enviromental policy from Oxford University as a Rhodes Scholar. My research draws upon three themes:
-- **Optics in Nature:** how do living creatures manipulate light?
-- **Game Theory in the Life Sciences:** how do arms races shape life and climate on our planet?
-- **Ecosystem Health:** what makes ecosystems stable-- or not?
+- **Optics in Nature:** living creatures manipulate light.
+- **Game Theory in the Life Sciences:** arms races shape life and climate on our planet.
+- **Ecosystem Health:** ecosystems depend on good policy and ecological research.
 
 You can view my full CV [here](https://reallymccoy.github.io/files/Dakota_McCoy_CV.pdf) and my one-page resume [here](https://reallymccoy.github.io/files/Dakota_McCoy_OnePage_Resume.pdf).
 
 
 
-*Optics of Super Black: How Animals Trap Light*
+*Optics in Nature: Super Black Animals*
 -------
 
 **Birds of Paradise**
@@ -38,7 +38,7 @@ Peacock spiders have evolved ultra-dark black color adjacent to their brilliant 
 [![Many bird evolved super black color](/images/Convergent_Evolution_Birds_Website.png)](https://jeb.biologists.org/content/222/18/jeb208140)
 Super black plumages evolved in birds from 15 families, with diverse morphology underpinning the plumages. Several families convergently evolved similar morphologies (e.g., curved, uwpard-branching barbules). 
 
-*Game Theory: Manipulating Optics (and Biochemistry) to Manipulate Others*
+*Game Theory in the life Sciences: Manipulating Optics (and Biochemistry) to Manipulate Others*
 -------
 
 **Carotenoid Signals in Tanagers**
