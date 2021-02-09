@@ -11,10 +11,10 @@ redirect_from:
   <img src="/images/GSAS_EnvActTeam.jpg" alt="HarvardGrEAT" width="33%">
 </a>
 <a href="https://www.covidloantracker.com/" target="_blank">
-  <img src="/images/CovidLoanTracker.png" alt="CovidLoanTracker" width="33%">
+  <img src="/images/CovidLoanTracker.png" alt="CovidLoanTracker" width="17%">
 </a>
 <a href="https://www.facebook.com/HarvardGrEAT" target="_blank">
-  <img src="/images/CSLL.png" alt="ClimateSolutionsLivingLab" width="33%">
+  <img src="/images/CSLL.png" alt="ClimateSolutionsLivingLab" width="24%">
 </a>
 
 
