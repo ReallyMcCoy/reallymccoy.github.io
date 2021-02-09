@@ -16,7 +16,7 @@ The physical and biological worlds are inextricably linked. To harness sunlight,
 Training
 ======
 
-Currently, I am a PhD student in [David Haig](https://haiggroup.oeb.harvard.edu/)'s lab at Harvard, supported by the NDSEG Fellowship and the Ashford Fellowship. Before this, I studied biology at Yale (advised by [Leo Buss](https://eeb.yale.edu/people/faculty-affiliated/leo-buss) and [Rick Prum](https://prumlab.yale.edu/)) and received an MPhil in enviromental policy from Oxford University as a Rhodes Scholar. Through the Climate Solutions Living Lab at Harvard Law School, [Wendy Jacobs](https://hls.harvard.edu/faculty/directory/10426/Jacobs) taught me how to apply science to issues of environmental policy. She passed away this year. Wendy Jacobs left a giant-sized imprint on the world through her law, teaching, and advocacy; I count myself lucky to have known her.
+Currently, I am a PhD student in [David Haig](https://haiggroup.oeb.harvard.edu/)'s lab at Harvard, supported by the NDSEG Fellowship and the Ashford Fellowship. Before this, I studied biology at Yale (advised by [Leo Buss](https://eeb.yale.edu/people/faculty-affiliated/leo-buss) and [Rick Prum](https://prumlab.yale.edu/)) and received an MPhil in enviromental policy from Oxford University as a Rhodes Scholar. Through the Climate Solutions Living Lab at Harvard Law School, [Wendy Jacobs](https://hls.harvard.edu/faculty/directory/10426/Jacobs) taught me how to apply science to issues of environmental policy. She passed away this year, leaving a giant-sized positive imprint on the world through her law, teaching, and advocacy.
 
 Research
 ======
