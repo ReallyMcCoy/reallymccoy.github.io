@@ -7,13 +7,14 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://www.google.com/">
+<a href="https://www.covidloantracker.com/">
          <img src="/images/CovidLoanTracker.png" alt="hi" class="inline" width="50%">
 </a>
-                               
-![](/images/CovidLoanTracker.png)
 
-<img src="/images/CovidLoanTracker.png" alt="hi" class="inline" width="50%">
+<a href="https://www.facebook.com/HarvardGrEAT">
+         <img src="/images/GSAS_EnvActTeam.jpg" alt="hi" class="inline" width="50%">
+</a>
+
 
 ## White Papers and Public Comments
 
