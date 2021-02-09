@@ -11,15 +11,20 @@ redirect_from:
 About me
 ======
 
-The physical and biological worlds are inextricably linked. To harness sunlight, animals have evolved a wide array of adaptations—natural technologies—many of which have inspired innovations in sustainable solar technologies. Marrying applied physics with biological methods, I study the functions and origins of these optical adaptations. My research program has also included studies on ecosystem health, applying data science to inform policy. My work has driven novel solar technology research, inspired recent studies of light manipulation in several animals, and will soon appear in a forthcoming United Nations booklet on bioinspiration. First-author papers from my projects have appeared in *Nature Communications*, *Trends in Ecology and Evolution*, and *Current Biology*.
+The physical and biological worlds are inextricably linked. To harness sunlight, animals have evolved a wide array of adaptations—natural technologies—many of which have inspired innovations in sustainable solar technologies. Marrying applied physics with biological methods, I study the functions and origins of these optical adaptations. My research program has also included studies on ecosystem health, applying data science to inform policy. My work has driven novel solar technology research, inspired recent studies of light manipulation in several animals, and will soon appear in a forthcoming United Nations booklet on bioinspiration. First-author papers from my projects have appeared in *Nature Communications*, *Trends in Ecology and Evolution*, and *Current Biology*. You can view my full CV [here](https://reallymccoy.github.io/files/Dakota_McCoy_CV.pdf) and my one-page resume [here](https://reallymccoy.github.io/files/Dakota_McCoy_OnePage_Resume.pdf).
 
-Currently, I am a PhD student in [David Haig](https://haiggroup.oeb.harvard.edu/)'s lab at Harvard, supported by the NDSEG Fellowship and the Ashford Fellowship. Before this, I studied biology at Yale (advised by [Leo Buss](https://eeb.yale.edu/people/faculty-affiliated/leo-buss) and [Rick Prum](https://prumlab.yale.edu/)) and received an MPhil in enviromental policy from Oxford University as a Rhodes Scholar. My research draws upon three themes:
+Training
+======
+
+Currently, I am a PhD student in [David Haig](https://haiggroup.oeb.harvard.edu/)'s lab at Harvard, supported by the NDSEG Fellowship and the Ashford Fellowship. Before this, I studied biology at Yale (advised by [Leo Buss](https://eeb.yale.edu/people/faculty-affiliated/leo-buss) and [Rick Prum](https://prumlab.yale.edu/)) and received an MPhil in enviromental policy from Oxford University as a Rhodes Scholar. [Wendy Jacobs](https://hls.harvard.edu/faculty/directory/10426/Jacobs) (Environmental Law and Policy Clinic, Harvard Law School) taught me how to apply science to issues of environmental policy. She passed away this year. Wendy Jacobs left a giant-sized imprint on the world through her law, teaching, and advocacy; I count myself lucky to have known her.
+
+Research
+======
+
+My research draws upon three themes:
 - **Optics in Nature:** living creatures manipulate light.
 - **Game Theory in the Life Sciences:** arms races shape life and climate on our planet.
 - **Ecosystem Health:** ecosystems depend on good policy and ecological research.
-
-You can view my full CV [here](https://reallymccoy.github.io/files/Dakota_McCoy_CV.pdf) and my one-page resume [here](https://reallymccoy.github.io/files/Dakota_McCoy_OnePage_Resume.pdf).
-
 
 
 *Optics in Nature: Super Black Animals*
