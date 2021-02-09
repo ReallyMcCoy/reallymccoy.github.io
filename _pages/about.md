@@ -20,7 +20,7 @@ You can view my full CV [here](https://reallymccoy.github.io/files/Dakota_McCoy_
 
 
 
-*Super Black: Natural Light Traps*
+*Optics of Super Black: How Animals Trap Light*
 -------
 
 **Birds of Paradise**
@@ -30,13 +30,13 @@ Male birds-of-paradise, perhaps nature's most ornate and elaborate creatures, ev
 
 **Peacock Spiders**
 [![Peacock spiders have super black color](/images/Peacock_Spiders_Website.png)](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.0589)
-Peacock spiders have evolved ultra-dark black color adjacent to their brilliant color patches. They are a remarkable convergence of form-- microlenses, used in nature on everything from plant leaves to moth eyes-- and function-- ultra black near bright color for color emphasis, akin to their ecological analogues (the Birds-of-Paradise). Click the image to learn more!
+Peacock spiders have evolved ultra-dark black color adjacent to their brilliant color patches. They are a remarkable convergence of form-- microlenses, used in nature on everything from plant leaves to moth eyes-- and function-- ultra black near bright color for color emphasis, akin to their ecological analogues (the Birds-of-Paradise). The micro-scale features on these spiders have inspired new research into efficient solar power, led by Nikolaj Mandsberg. Click the image to learn more!
 
 **Convergence of Super Black in Many Birds**
 [![Many bird evolved super black color](/images/Convergent_Evolution_Birds_Website.png)](https://jeb.biologists.org/content/222/18/jeb208140)
 Super black plumages evolved in birds from 15 families, with diverse morphology underpinning the plumages. Several families convergently evolved similar morphologies (e.g., curved, uwpard-branching barbules). 
 
-*Game Theory: Manipulating Light to Manipulate Others*
+*Game Theory: Manipulating Optics (and Biochemistry) to Manipulate Others*
 -------
 
 **Carotenoid Signals in Tanagers**
