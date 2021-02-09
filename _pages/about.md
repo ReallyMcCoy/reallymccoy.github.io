@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
+*Wildlife & Sunlight*   ||   *Environmental Science & Physics*
 ======
 
 The physical and biological worlds are inextricably linked. To harness sunlight, animals have evolved a wide array of adaptations—natural technologies—many of which have inspired innovations in sustainable solar technologies. Marrying applied physics with biological methods, I study the functions and origins of these optical adaptations. My research program has also included studies on ecosystem health, applying data science to inform policy. My work has driven novel solar technology research, inspired recent studies of light manipulation in several animals, and will soon appear in a forthcoming United Nations booklet on bioinspiration. First-author papers from my projects have appeared in *Nature Communications*, *Trends in Ecology and Evolution*, and *Current Biology*. You can view my full CV [here](https://reallymccoy.github.io/files/Dakota_McCoy_CV.pdf) and my one-page resume [here](https://reallymccoy.github.io/files/Dakota_McCoy_OnePage_Resume.pdf).
