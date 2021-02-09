@@ -7,23 +7,23 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://www.covidloantracker.com/">
+<a href="https://www.covidloantracker.com/" target="_blank">
          <img src="/images/CovidLoanTracker.png" alt="hi" class="inline" width="50%">
 </a>
 
-<a href="https://www.facebook.com/HarvardGrEAT">
+<a href="https://www.facebook.com/HarvardGrEAT" target="_blank">
          <img src="/images/GSAS_EnvActTeam.jpg" alt="hi" class="inline" width="50%">
 </a>
 
 <div class="row">
   <div class="column">
     <a href="https://www.covidloantracker.com">
-      <img src="/images/CovidLoanTracker.png" alt="CovidLoanTracker" style="width:100%">
+      <img src="/images/CovidLoanTracker.png" alt="CovidLoanTracker" style="width:49%">
     </a>
   </div>
   <div class="column">
     <a href="https://www.facebook.com/HarvardGrEAT">
-      <img src="/images/GSAS_EnvActTeam.jpg" alt="HarvardGrEAT" style="width:100%">
+      <img src="/images/GSAS_EnvActTeam.jpg" alt="HarvardGrEAT" style="width:49%">
     </a>
   </div>
 </div>
