@@ -7,6 +7,14 @@ redirect_from:
 
 {% include base_path %}
 
+
+![](/images/CovidLoanTracker.png)
+
+<img src="https://github.com/favicon.ico" width="48">
+
+<img src="https://github.com/favicon.ico" height="24">
+
+
 ## White Papers and Public Comments
 
 Cattaneo, L, <b>McCoy, D.E.</b>, Matchett, J., Pollack, E., and Saltzman, V.. (2020). [Waste-to Energy and Community Resiliency: Quapaw Nation, OK](http://clinics.law.harvard.edu/environment/files/2019/05/Team-2-Quapaw-Imp.Plan-FS-FINAL-reduced-size.pdf). Harvard Law School; Climate Solutions Living Lab.
