@@ -7,13 +7,13 @@ redirect_from:
 
 {% include base_path %}
 
-
+<a href="https://www.google.com/">
+         <img src="/images/CovidLoanTracker.png" alt="hi" class="inline" width="50%">
+</a>
+                               
 ![](/images/CovidLoanTracker.png)
 
-<img src="https://github.com/favicon.ico" width="48">
-
-<img src="https://github.com/favicon.ico" height="24">
-
+<img src="/images/CovidLoanTracker.png" alt="hi" class="inline" width="50%">
 
 ## White Papers and Public Comments
 
