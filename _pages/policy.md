@@ -7,26 +7,20 @@ redirect_from:
 
 {% include base_path %}
 
-<p float="left">
-  <a href="https://www.facebook.com/HarvardGrEAT" target="_blank">
-         <img src="/images/CSLL.png" alt="ClimateSolutionsLivingLab" height="150">
-  </a>
-  &nbsp
-  &nbsp
-  &nbsp
-  &nbsp
+<a href="https://www.facebook.com/HarvardGrEAT" target="_blank">
+  <img src="/images/GSAS_EnvActTeam.jpg" alt="HarvardGrEAT" height="150">
+</a>
+  
 <a href="https://www.covidloantracker.com/" target="_blank">
-         <img src="/images/CovidLoanTracker.png" alt="CovidLoanTracker" height="150">
-  </a>
-  &nbsp
-  &nbsp
-  &nbsp
-  &nbsp
-    <a href="https://www.facebook.com/HarvardGrEAT" target="_blank">
-         <img src="/images/GSAS_EnvActTeam.jpg" alt="HarvardGrEAT" height="150">
-  </a>
+  <img src="/images/CovidLoanTracker.png" alt="CovidLoanTracker" height="150">
+</a>
 
-</p>
+<a href="https://www.facebook.com/HarvardGrEAT" target="_blank">
+  <img src="/images/CSLL.png" alt="ClimateSolutionsLivingLab" height="150">
+</a>
+
+
+
 
 
 ## White Papers and Public Comments
