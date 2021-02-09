@@ -63,3 +63,4 @@ Primates are model organisms for questions of cooperation and conflict within fa
 
 **Urban Trees: Biodiversity, Ecology, Stability**
 Urban forests can be biodiverse ecosystems. My team and I (project co-led by Ben Goulet-Scott) have assembled a dataset of over 5 million city trees from many of the the 150 largest cities in the USA, including data on species, exact location, condition, and trunk diameter. Early results indicate that west coast cities have very low levels of native trees, while midwestern US cities range from 50%-80% native. Our analyses will next consider biome, change over time, biodiversity, and equity. Ultimately we will publish a paper, a public dataset, and recommendations for urban policy. Most recently, we met with the Cambridge city government urban forest team.
+
