@@ -9,7 +9,7 @@ redirect_from:
 
   
 <a href="https://www.facebook.com/HarvardGrEAT" target="_blank">
-  <img src="/images/HarvardGrEAT.png" alt="HarvardGrEAT" width="30% style="padding-right: 20px; padding left: 20px">
+  <img src="/images/HarvardGrEAT.png" alt="HarvardGrEAT" width="30%>
 </a>                                                             
 <a href="https://www.covidloantracker.com/" target="_blank">
   <img src="/images/CovidLoanTracker.png" alt="CovidLoanTracker" width="17%">
