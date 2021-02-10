@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 <span style="font-variant:small-caps;">Wildlife &#9670; Sunlight &#9670; Environmental Science &#9670; Physics</span>
--------
+====
 
 The physical and biological worlds are inextricably linked. To harness sunlight, animals have evolved a wide array of adaptations—natural technologies—many of which have inspired innovations in sustainable solar technologies. Marrying applied physics with biological methods, I study the functions and origins of these optical adaptations. My research program has also included studies on ecosystem health, applying data science to inform policy. My work has driven novel solar technology research, inspired recent studies of light manipulation in several animals, and will soon appear in a forthcoming United Nations booklet on bioinspiration. First-author papers from my projects have appeared in *Nature Communications*, *Trends in Ecology and Evolution*, and *Current Biology*. You can view my full CV [here](https://reallymccoy.github.io/files/Dakota_McCoy_CV.pdf) and my one-page resume [here](https://reallymccoy.github.io/files/Dakota_McCoy_OnePage_Resume.pdf).
 
-## Training
+# Training
 
 Currently, I am a PhD student in [David Haig](https://haiggroup.oeb.harvard.edu/)'s lab at Harvard, supported by the NDSEG Fellowship and the Ashford Fellowship. Before this, I studied biology at Yale (advised by [Leo Buss](https://eeb.yale.edu/people/faculty-affiliated/leo-buss) and [Rick Prum](https://prumlab.yale.edu/)) and received an MPhil in enviromental policy from Oxford University as a Rhodes Scholar. Through the Climate Solutions Living Lab at Harvard Law School, [Wendy Jacobs](https://hls.harvard.edu/faculty/directory/10426/Jacobs) taught me how to apply science to issues of environmental policy. She passed away this year, leaving a giant-sized positive imprint on the world through her law, teaching, and advocacy.
 
-## Research
+# Research
 
 My research draws upon three themes:
 - **Optics in Nature:** living creatures manipulate light.
