@@ -13,7 +13,7 @@ redirect_from:
   <a href="https://www.covidloantracker.com/" target="_blank">
     <img src="/images/CovidLoanTracker.png" alt="CovidLoanTracker" width="17%">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/HarvardGrEAT" target="_blank">
+  <a href="https://clinics.law.harvard.edu/environment/climate-solutions-living-lab/" target="_blank">
     <img src="/images/CSLL.png" alt="ClimateSolutionsLivingLab" width="23%">
   </a> 
 </div>
