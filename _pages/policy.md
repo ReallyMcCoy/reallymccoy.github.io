@@ -7,18 +7,9 @@ redirect_from:
 
 {% include base_path %}
 
-<p style="margin-left: 40px; text-indent: -40px;">
-  <a href="https://www.facebook.com/HarvardGrEAT" target="_blank">
-  <img src="/images/HarvardGrEAT.png" alt="HarvardGrEAT" width="30% style="float: right;margin-left: 200px;margin-top: 2px;"/>
-</a>                                                                                                                         <a href="https://www.facebook.com/HarvardGrEAT" target="_blank">
-  <img src="/images/HarvardGrEAT.png" alt="HarvardGrEAT" width="30% style="float: right;margin-right: 2px;margin-top: 2px;"/>
-</a>  
-  </p>
-
-
-
+  
 <a href="https://www.facebook.com/HarvardGrEAT" target="_blank">
-  <img src="/images/HarvardGrEAT.png" alt="HarvardGrEAT" width="30% style="padding-right: 20px; padding left: 20px;">
+  <img src="/images/HarvardGrEAT.png" alt="HarvardGrEAT" width="30% style="padding-right: 20px; padding left: 20px">
 </a>                                                             
 <a href="https://www.covidloantracker.com/" target="_blank">
   <img src="/images/CovidLoanTracker.png" alt="CovidLoanTracker" width="17%">
