@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 <span style="font-variant:small-caps;">Wildlife &#9670; Sunlight &#9670; Environmental Science &#9670; Physics</span>
 -------
 
