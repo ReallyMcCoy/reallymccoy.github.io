@@ -10,6 +10,10 @@ redirect_from:
 
 <span style="font-variant:small-caps;">Wildlife</span>
 
+*<span style="font-variant:small-caps;">Wildlife</span>*
+=====
+
+
 *Wildlife & Sunlight*   ||   *Environmental Science & Physics*
 ======
 
