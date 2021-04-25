@@ -7,6 +7,12 @@ redirect_from:
 
 {% include base_path %}
 
+## 2021
+
+<p style="margin-left: 40px; text-indent: -40px;">
+  <b> Dakota E McCoy</b>  Allison J. Shultz, Charles Vidoudez, Emma van der Heide, Jacqueline E. Dall, Sunia A. Trauger & David Haig. 2021. “Microstructures amplify carotenoid plumage signals in tanagers” <i>Scientific Reports</i>, 8582 (2021). [<a href="https://www.nature.com/articles/s41598-021-88106-w">LINK</a>] to paper; [<a href="/files/Tanager_Carotenoid_Plumage_Scientific_Reports_2021.pdf">PDF version</a>]
+</p>
+
 ## 2020
 
 <p style="margin-left: 40px; text-indent: -40px;">
