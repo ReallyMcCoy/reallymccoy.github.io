@@ -10,6 +10,10 @@ redirect_from:
 ## 2021
 
 <p style="margin-left: 40px; text-indent: -40px;">
+  <b> Dakota E McCoy</b>  Anna V. Shneidman, Alexander L. Davis, and Joanna Aizenberg. 2021. "Finite-difference Time-domain (FDTD) Optical Simulations: A Primer for the Life Sciences and Bio-Inspired Engineering." <i>Micron</i>, 103160 (2021). [<a href="https://www.sciencedirect.com/science/article/pii/S0968432821001517">LINK</a>] to paper; [<a href="/files/FDTD_Methods_Primer_MICRON_2021.pdf">PDF version</a>]
+</p>
+
+<p style="margin-left: 40px; text-indent: -40px;">
   <b> Dakota E McCoy</b>  Allison J. Shultz, Charles Vidoudez, Emma van der Heide, Jacqueline E. Dall, Sunia A. Trauger & David Haig. 2021. “Microstructures amplify carotenoid plumage signals in tanagers” <i>Scientific Reports</i>, 8582 (2021). [<a href="https://www.nature.com/articles/s41598-021-88106-w">LINK</a>] to paper; [<a href="/files/Tanager_Carotenoid_Plumage_Scientific_Reports_2021.pdf">PDF version</a>]
 </p>
 
