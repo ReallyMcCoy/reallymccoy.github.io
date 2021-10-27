@@ -5,7 +5,7 @@ redirect_from:
   - /fun-stuff
 ---
 
- 
+This page is just for fun.
 
 ## Music
 
