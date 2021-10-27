@@ -18,6 +18,10 @@ During my PhD, I sang with the Boston-based a cappella group Voicelab. You can l
 <iframe src="https://open.spotify.com/embed/track/0ODFkPDbtUvjhKmnlhitT8?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 <br>
 
+<div style=”float:left;width:auto;margin-right:14px;”> <iframe width="560" height="315" src="https://www.youtube.com/embed/-NaooJ1f80U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>E </div>
+
+<div style=”float:left;width:auto;”> <iframe width="560" height="315" src="https://www.youtube.com/embed/-NaooJ1f80U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div> <div style=”clear:both;height:1em;”></div>
+
 ## Bookbinding
 
 At Harvard, I taught bookbinding courses in the [Bow and Arrow Press](https://www.instagram.com/bowarrowpress). My students made amazing hand-bound copies of works by Oscar Wilde, Lewis Carrol, Simone de Beauvoir, their own family's recipe books, Shakespeare, and more. Below are images of a few books I have bound over the years.
