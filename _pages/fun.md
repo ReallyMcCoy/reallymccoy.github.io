@@ -1,3 +1,9 @@
+---
+permalink: /fun/
+author_profile: true
+
+---
+
 ## Music
 
 During my PhD, I sang with the Boston-based a cappella group Voicelab. We put together a few socially-distanced music videos during Covid.
