@@ -9,7 +9,7 @@ This page is just for fun.
 
 ## Bookbinding
 
-At Harvard, I taught bookbinding courses in the [Bow and Arrow Press](https://www.instagram.com/bowarrowpress). My students made amazing hand-bound copies of works by Oscar Wilde, Lewis Carrol, Simone de Beauvoir, their own family's recipe books, Shakespeare, and more. Below are images of a few books I have bound over the years.
+At Harvard, I taught bookbinding courses in the [Bow and Arrow Press](https://www.instagram.com/bowarrowpress). My students made amazing hand-bound copies of works by Oscar Wilde, Lewis Carroll, Simone de Beauvoir, their own family's recipe books, Shakespeare, and more. Below are images of a few books I have bound over the years.
 
 <p float="left">
   <img src="/images/Book_2.jpg" width ="175" />
