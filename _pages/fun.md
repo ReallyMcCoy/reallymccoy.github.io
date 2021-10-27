@@ -5,10 +5,11 @@ redirect_from:
   - /fun-stuff
 ---
 
+Hello
 
 ## Music
 
-During my PhD, I sang with the Boston-based a cappella group Voicelab. You can listen to some of our tracks on Spotify (samples below), or watch socially-distanced youtube videos we made during Covid.
+During my PhD, I sang with the Boston-based a cappella group Voicelab. You can listen to some of our tracks on Spotify (samples below), or watch socially-distanced youtube videos we made during Covid (embedded videos).
 
 <iframe src="https://open.spotify.com/embed?uri=spotify%3Atrack%3A4sJaB5mGaz02VMPMoRbaaw" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 <br>
@@ -24,7 +25,7 @@ During my PhD, I sang with the Boston-based a cappella group Voicelab. You can l
 
 ## Bookbinding
 
-At Harvard, I taught bookbinding courses in the [Bow and Arrow Press](https://www.instagram.com/bowarrowpress). My students made amazing hand-bound copies of works by Oscar Wilde, Lewis Carrol, Simone de Beauvoir, their own family's recipe books, Shakespeare, and more. 
+At Harvard, I taught bookbinding courses in the [Bow and Arrow Press](https://www.instagram.com/bowarrowpress). My students made amazing hand-bound copies of works by Oscar Wilde, Lewis Carrol, Simone de Beauvoir, their own family's recipe books, Shakespeare, and more. Below are images of a few books I have bound over the years.
 
 <p float="left">
   <img src="/images/Book_2.jpg" width ="175" />
