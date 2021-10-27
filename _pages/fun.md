@@ -18,9 +18,9 @@ During my PhD, I sang with the Boston-based a cappella group Voicelab. You can l
 <iframe src="https://open.spotify.com/embed/track/0ODFkPDbtUvjhKmnlhitT8?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 <br>
 
-<iframe width="280" height="157.5" src="https://www.youtube.com/embed/-NaooJ1f80U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="280" height="157.5" src="https://www.youtube.com/embed/-NaooJ1f80U" frameborder="0" allow="autoplay; encrypted-media"></iframe>
 <br>
-<iframe width="280" height="157.5" src="https://www.youtube.com/embed/pYXwrJKEn04" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="280" height="157.5" src="https://www.youtube.com/embed/pYXwrJKEn04" frameborder="0" allow="autoplay; encrypted-media"></iframe>
 
 
 ## Bookbinding
