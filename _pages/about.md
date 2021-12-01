@@ -32,4 +32,5 @@ Currently, I am a [Stanford Science Fellow](https://stanfordsciencefellows.stanf
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-These projects may seem broad, but they are intimately connected. By studying fantastic ornaments in birds and spiders, I acquired the tools in computational optics to research photosynthesis in threatened coral reef ecosystems. After researching genetic conflicts in human pregnancy, I launched a project on host-symbiont conflict as a cause of coral bleaching nad gained the data science skills to research urban forestry. My research philosophy can be summed up in one sentence, oft repeated by my PhD supervisor David Haig: it is worth our while to focus on the fundamental interconnectedness of all things.
+  \
+These projects may seem broad, but they are intimately connected. By studying fantastic ornaments in birds and spiders, I acquired the tools in computational optics to research photosynthesis in threatened coral reef ecosystems. After researching genetic conflicts in human pregnancy, I launched a project on host-symbiont conflict as a cause of coral bleaching and gained the data science skills to research urban forestry. My research philosophy can be summed up in one sentence, oft repeated by my PhD supervisor David Haig: it is worth our while to focus on the fundamental interconnectedness of all things.
