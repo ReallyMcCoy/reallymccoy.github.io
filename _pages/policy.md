@@ -19,8 +19,8 @@ redirect_from:
 </div>
   
 
-
-
+<br>
+Through the Climate Solutions Living Lab at Harvard Law School, Wendy Jacobs taught me how to apply science to issues of environmental policy. She passed away this year (2021), leaving a giant-sized positive imprint on the world through her law, teaching, and advocacy.
 
 
 
