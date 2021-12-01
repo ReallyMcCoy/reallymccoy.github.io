@@ -8,13 +8,13 @@ redirect_from:
 Below, you can read about my ongoing research projects.
 
 ## City Trees Project
-
-Blah Blah.
+City trees capture and store carbon dioxide, reduce the levels of toxic particulate matter in the air, and cool local temperatures by about 0.83°C for every 10% increase in forest cover. Further, urban forests improve mental and physical health and provide habitat for bird and insect communities. Thanks to city tree inventories across the US and the world, we have an unprecedented opportunity to research ecosystem function from the meter-scale to the global-scale. My team and I have assembled a dataset of over 5 million city trees from 63 of the largest cities in the USA, including data on species, exact location, condition, and trunk diameter. We are researching the (i) current status (e.g., composition: Fig. 1), (ii) impact, and (iii) potential of urban forests. We developed a pipeline to clean and standardize data from street tree inventories, allowing us to easily add many more datasets from many more cities.
+This project is co-led by Ben Goulet-Scott.
 
 
 ## Optics of Coral Reefs
-
-Blah Blah.
+I apply computational optics to understand how solar energy influences coral reef ecosystems and their breakdown through coral bleaching. Solar energy flux is an essential component of coral reefs, cornerstones of our world’s oceans. Amidst global warming, corals famously “bleach”, or expel their symbiotic algae, turn white, and often die (with devastating ecological consequences). However, the optical drivers of coral bleaching—and indeed, solar energy fluxes in photosynthetic animals—are not well understood.
+My research applies methods from biophysics and photonics to energy flux in coral reefs across scales (topics researched by other groups through the complementary lens of molecular biology). To photosynthesize properly, corals must provide enough light to their symbiotic partners to enable efficient photosynthesis without exposing them to light and heat shock. At the nano-scale, I research how photosynthetic animals harness solar power through optical adaptations. At the macro-scale, I apply statistical methods to investigate the physical and optical drivers of coral bleaching. At the global scale, I will research how variable light environments impact ecosystem function.
 
 
 ## Super Black Animals (& Bioinspired Solar Tech)
