@@ -25,7 +25,6 @@ Currently, I am a [Stanford Science Fellow](https://stanfordsciencefellows.stanf
     <img src="/images/Coral_Logo.png" alt="Optics of Coral Reefs" width="45%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br>
-  <br>
     <a href="https://www.facebook.com/HarvardGrEAT" target="_blank">
     <img src="/images/SuperBlack_Logo.png" alt="Super Black Animals" width="45%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
