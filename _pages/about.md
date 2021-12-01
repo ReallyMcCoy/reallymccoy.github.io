@@ -17,17 +17,17 @@ Nature is interdisciplinary. Ecological systems are forged in the evolutionary c
 Currently, I am a [Stanford Science Fellow](https://stanfordsciencefellows.stanford.edu/meet-fellows) (coadvised by [Jen Dionne](http://dionne.stanford.edu/) and [Steve Palumbi](https://hopkinsmarinestation.stanford.edu/people/stephen-palumbi)) and an [NSF Postdoctoral Research Fellow](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503622) (advised by [Sonke Johnsen](https://opticsoflife.org/)). David Haig supervised my PhD at Harvard, where I was an NDSEG Fellow and the Ashford Fellow. Before that, I studied biology at Yale (advised by Leo Buss and Rick Prum) and received an MPhil in enviromental policy as a Rhodes Scholar. My research falls into four categories; click the images below or visit my Research page to learn more.
 
 <div align="center">
-  <a href="https://www.facebook.com/HarvardGrEAT" target="_blank">
+  <a href="https://reallymccoy.github.io/research/#city-trees-project" target="_blank">
     <img src="/images/Trees_Logo.png" alt="City Trees Project" width="45%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.covidloantracker.com/" target="_blank">
+  <a href="https://reallymccoy.github.io/research/#optics-of-coral-reefs" target="_blank">
     <img src="/images/Coral_Logo.png" alt="Optics of Coral Reefs" width="45%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br><br>
-    <a href="https://www.facebook.com/HarvardGrEAT" target="_blank">
+    <a href="https://reallymccoy.github.io/research/#super-black-animals-bioinspired-solar-tech" target="_blank">
     <img src="/images/SuperBlack_Logo.png" alt="Super Black Animals" width="45%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.covidloantracker.com/" target="_blank">
+  <a href="https://reallymccoy.github.io/research/#biology-of-pregnancy" target="_blank">
     <img src="/images/Pregnancy_Logo.png" alt="Biology of Pregnancy" width="45%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
