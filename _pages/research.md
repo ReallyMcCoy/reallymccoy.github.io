@@ -8,8 +8,8 @@ redirect_from:
 Below, you can read about my ongoing research projects.
 
 ## City Trees Project
-<img style="float:right" src="/images/Peacock_Spider_Cover.jpg" width=150/>
-    City trees capture and store carbon dioxide, reduce the levels of toxic particulate matter in the air, and cool local temperatures by about 0.83°C for every 10% increase in forest cover. Further, urban forests improve mental and physical health and provide habitat for bird and insect communities. Thanks to city tree inventories across the US and the world, we have an unprecedented opportunity to research ecosystem function from the meter-scale to the global-scale. My team and I have assembled a dataset of over 5 million city trees from 63 of the largest cities in the USA, including data on species, exact location, condition, and trunk diameter. We are researching the (i) current status (e.g., composition), (ii) impact, and (iii) potential of urban forests. We developed a pipeline to clean and standardize data from street tree inventories, allowing us to easily add many more datasets from many more cities.
+<!---<img style="float:right;margin:0 2px 2px 0" src="/images/Peacock_Spider_Cover.jpg" width=150/>-->
+City trees capture and store carbon dioxide, reduce the levels of toxic particulate matter in the air, and cool local temperatures by about 0.83°C for every 10% increase in forest cover. Further, urban forests improve mental and physical health and provide habitat for bird and insect communities. Thanks to city tree inventories across the US and the world, we have an unprecedented opportunity to research ecosystem function from the meter-scale to the global-scale. My team and I have assembled a dataset of over 5 million city trees from 63 of the largest cities in the USA, including data on species, exact location, condition, and trunk diameter. We are researching the (i) current status (e.g., composition), (ii) impact, and (iii) potential of urban forests. We developed a pipeline to clean and standardize data from street tree inventories, allowing us to easily add many more datasets from many more cities.
 This project is co-led by Ben Goulet-Scott.
 
 
