@@ -7,6 +7,11 @@ redirect_from:
 
 {% include base_path %}
 
+## 2022
+<p style="margin-left: 40px; text-indent: -40px;">
+  Brett M. Frye, <b>Dakota E. McCoy</b>, Jennifer Kotler, Amanda Embury, Judith M. Burkart, Monika Burns, Simon Eyre, Peter Galbusera, Jacqui Hooper, Arun Idoe, Agustin Lopez Goya, Jennifer Mickelberg, Marcos Peromingo Quesada, Miranda Stevenson, Sara Sullivan, Mark Warneke, Sheila Wojciechowski, Dominic Wormell, David Haig, and Suzette D. Tardif. 2021. "After short interbirth intervals, captive callitrichine monkeys have higher infant mortality." <i>iScience</i>, 103724. [<a href="https://www.sciencedirect.com/science/article/pii/S2589004221016941">LINK</a>] to paper; [<a href="/files/Callitrichine_InterbirthInterval_iScience_Frye_et_al_2022.pdf">PDF version</a>]
+</p>
+
 ## 2021
 
 <p style="margin-left: 40px; text-indent: -40px;">
