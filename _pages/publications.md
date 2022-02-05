@@ -50,7 +50,7 @@ Rachael Miller, Anna Frohnwieser, Martina Schiestl, <b>Dakota E McCoy</b>, Russe
 
 
 <p style="margin-left: 40px; text-indent: -40px;">
-  <img src="/images/Marmoset_Cover.jpg" width="150" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/><b>Dakota E McCoy</b>, Brett M Frye, Jennifer Kotler, Judith M Burkart, Monika Burns, Amanda Embury, Simon Eyre, Peter Galbusera, Jacqui Hooper, and Arun Idoe. 2019. “A comparative study of litter size and sex composition in a large dataset of callitrichine monkeys.” <i>American journal of primatology</i>, Pp. e23038. [<a href="https://onlinelibrary.wiley.com/doi/10.1002/ajp.23038">LINK</a>] to paper; [<a href="/files/Callitrichine_Demographics_Am_J_Primatology_2019.pdf">PDF version</a>] 
+  <img src="/images/Marmoset_Cover.jpg" width="150" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/><b>Dakota E McCoy</b>, BJennifer Kotler, Amanda Embury, Judith M. Burkart, Monika Burns, Simon Eyre, Peter Galbusera, Jacqui Hooper, Arun Idoe, Agustin Lopez Goya, Jennifer Mickelberg, Marcos Peromingo Quesada, Miranda Stevenson, Sara Sullivan, Mark Warneke, Sheila Wojciechowski, Dominic Wormell, David Haig, and Suzette D. Tardif. 2019. “A comparative study of litter size and sex composition in a large dataset of callitrichine monkeys.” <i>American journal of primatology</i>, Pp. e23038. [<a href="https://onlinelibrary.wiley.com/doi/10.1002/ajp.23038">LINK</a>] to paper; [<a href="/files/Callitrichine_Demographics_Am_J_Primatology_2019.pdf">PDF version</a>] 
   </p> 
 
 
