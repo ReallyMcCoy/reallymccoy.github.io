@@ -10,7 +10,7 @@ redirect_from:
 ## 2022
 
 <p style="margin-left: 40px; text-indent: -40px;">
-  <b>McCoy, Dakota E.</b>, Benjamin Goulet-Scott, Weilin Meng, Bulent Furkan Atahan, Hana Kiros, Misako Nishino, and John Kartesz. "A dataset of 5 million city trees: species clustering and climate effects in urban forests." ><i>bioRxiv</i> (2022).[<a href="https://www.biorxiv.org/content/10.1101/2022.03.18.484862v1">LINK</a>] to paper]
+  <b>McCoy, Dakota E.</b>, Benjamin Goulet-Scott, Weilin Meng, Bulent Furkan Atahan, Hana Kiros, Misako Nishino, and John Kartesz. "A dataset of 5 million city trees: species clustering and climate effects in urban forests." <i>bioRxiv</i> (2022).[<a href="https://www.biorxiv.org/content/10.1101/2022.03.18.484862v1">LINK</a>] to paper]
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
