@@ -8,9 +8,15 @@ redirect_from:
 {% include base_path %}
 
 ## 2022
+
+<p style="margin-left: 40px; text-indent: -40px;">
+  <b>McCoy, Dakota E.</b>, Benjamin Goulet-Scott, Weilin Meng, Bulent Furkan Atahan, Hana Kiros, Misako Nishino, and John Kartesz. "A dataset of 5 million city trees: species clustering and climate effects in urban forests." ><i>bioRxiv</i> (2022).[<a href="https://www.biorxiv.org/content/10.1101/2022.03.18.484862v1">LINK</a>] to paper]
+</p>
+
 <p style="margin-left: 40px; text-indent: -40px;">
   Brett M. Frye, <b>Dakota E. McCoy</b>, Jennifer Kotler, Amanda Embury, Judith M. Burkart, Monika Burns, Simon Eyre, Peter Galbusera, Jacqui Hooper, Arun Idoe, Agustin Lopez Goya, Jennifer Mickelberg, Marcos Peromingo Quesada, Miranda Stevenson, Sara Sullivan, Mark Warneke, Sheila Wojciechowski, Dominic Wormell, David Haig, and Suzette D. Tardif. 2021. "After short interbirth intervals, captive callitrichine monkeys have higher infant mortality." <i>iScience</i>, 103724. [<a href="https://www.sciencedirect.com/science/article/pii/S2589004221016941">LINK</a>] to paper; [<a href="/files/Callitrichine_InterbirthInterval_iScience_Frye_et_al_2022.pdf">PDF version</a>]
 </p>
+
 
 ## 2021
 
