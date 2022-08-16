@@ -38,6 +38,8 @@ Goulet, B., Wilkin, H., Lai, P., Gersony, J., Treibergs, K., <b>McCoy, D.E.</b>,
 
 ## Op-Eds
 
+<b>McCoy, D.E.</b> and M. Sharp (May 9, 2022). [Why abortion is health care.](https://slate.com/technology/2022/05/abortion-access-health-care-pregnancy.html) Slate.
+
 Mastroianni, A. and <b>McCoy, D.E.</b> (May 17, 2018) [Countries with Less Gender Equity Have More Women in STEM--Huh?](https://blogs.scientificamerican.com/voices/countries-with-less-gender-equity-have-more-women-in-stem-huh/) Scientific American.
 
 <b>McCoy, D.E.</b> (January 9, 2018). [Super-black feathers can absorb virtually every photon of light that hits them.](http://theconversation.com/super-black-feathers-can-absorb-virtually-every-photon-of-light-that-hits-them-89689) The Conversation.
