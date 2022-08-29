@@ -10,6 +10,10 @@ redirect_from:
 ## 2022
 
 <p style="margin-left: 40px; text-indent: -40px;">
+  J. Arvid Ågren, David Haig, & <b>Dakota E. McCoy</b>. 2022. Meiosis solved the problem of gerrymandering. <i>Journal of Genetics</i> 101, 38 (2022). [<a href="https://doi.org/10.1007/s12041-022-01383-w">LINK</a>] to paper]; [<a href="/files/Meiosis_and_Gerrymandering_JournalofGenetics_2022.pdf">PDF version</a>]
+</p>
+
+<p style="margin-left: 40px; text-indent: -40px;">
   <b>McCoy, Dakota E.</b>, Benjamin Goulet-Scott, Weilin Meng, Bulent Furkan Atahan, Hana Kiros, Misako Nishino, and John Kartesz. "A dataset of 5 million city trees: species clustering and climate effects in urban forests." <i>bioRxiv</i> (2022).[<a href="https://www.biorxiv.org/content/10.1101/2022.03.18.484862v1">LINK</a>] to paper]
 </p>
 
