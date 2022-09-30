@@ -21,11 +21,11 @@ Previously, I pursued my goals in photonics, evolutionary conflict, and ecology 
 To learn more, click the images below or visit my Research page.
 
 <div align="center">
+    <a href="https://reallymccoy.github.io/research/#optics-of-coral-reefs" target="_blank">
+    <img src="/images/Coral_Logo.png" alt="Optics of Coral Reefs" width="45%">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://reallymccoy.github.io/research/#city-trees-project" target="_blank">
     <img src="/images/Trees_Logo.png" alt="City Trees Project" width="45%">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://reallymccoy.github.io/research/#optics-of-coral-reefs" target="_blank">
-    <img src="/images/Coral_Logo.png" alt="Optics of Coral Reefs" width="45%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br><br>
     <a href="https://reallymccoy.github.io/research/#super-black-animals-bioinspired-solar-tech" target="_blank">
