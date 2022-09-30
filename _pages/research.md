@@ -7,18 +7,16 @@ redirect_from:
 
 Below, you can read about my ongoing research projects.
 
-## City Trees Project
-<!---<img style="float:right;margin:0 2px 2px 0" src="/images/Peacock_Spider_Cover.jpg" width=150/>-->
-City trees capture and store carbon dioxide, reduce the levels of toxic particulate matter in the air, and cool local temperatures by about 0.83°C for every 10% increase in forest cover. Further, urban forests improve mental and physical health and provide habitat for bird and insect communities. Thanks to city tree inventories across the US and the world, we have an unprecedented opportunity to research ecosystem function from the meter-scale to the global-scale. My team and I have assembled a dataset of over 5 million city trees from 63 of the largest cities in the USA, including data on species, exact location, condition, and trunk diameter. We are researching the (i) current status (e.g., composition), (ii) impact, and (iii) potential of urban forests. We developed a pipeline to clean and standardize data from street tree inventories, allowing us to easily add many more datasets from many more cities.
-This project is co-led by Ben Goulet-Scott.
-
-
-
-
 ## Optics of Coral Reefs
 I apply computational optics to understand how solar energy influences coral reef ecosystems and their breakdown through coral bleaching. Solar energy flux is an essential component of coral reefs, cornerstones of our world’s oceans. Amidst global warming, corals famously “bleach”, or expel their symbiotic algae, turn white, and often die (with devastating ecological consequences). However, the optical drivers of coral bleaching—and indeed, solar energy fluxes in photosynthetic animals—are not well understood.
 My research applies methods from biophysics and photonics to energy flux in coral reefs across scales (topics researched by other groups through the complementary lens of molecular biology). To photosynthesize properly, corals must provide enough light to their symbiotic partners to enable efficient photosynthesis without exposing them to light and heat shock. At the nano-scale, I research how photosynthetic animals harness solar power through optical adaptations. At the macro-scale, I apply statistical methods to investigate the physical and optical drivers of coral bleaching. At the global scale, I will research how variable light environments impact ecosystem function.
 
+
+## City Trees Project
+<p style="margin-left: 40px; text-indent: -40px;">
+  <img src="/images/Peacock_Spider_Cover.jpg" width="150" alt="Cover photo of Paradise Tanager" style="float: right;margin-right: 2px;margin-top: 2px;"/>
+City trees capture and store carbon dioxide, cool local temperatures, and improve our mental and physical health. Trees are good for humans! But urban forests are also ecosystems that provide habitat for bird and insect communities. Thanks to city tree inventories across the US and the world, we have an unprecedented opportunity to research ecosystem function from the meter-scale to the global-scale. My team and I have assembled a dataset of over 5 million city trees from 63 of the largest cities in the USA, including data on species, exact location, condition, and trunk diameter; you can [view and download the data on Dryad](https://datadryad.org/stash/dataset/doi:10.5061/dryad.2jm63xsrf). We found that urban forests in the USA tend to group similar tree species together and rely heavily  on introduced species, which may decrease resilience and reduce their benefits for people and animals. Wetter, cooler cities had more naturally occurring trees, while drier, hotter communities had more introduced species. Read more about our paper in this [<i>eLife</i> digest](https://elifesciences.org/for-the-press/4dc2e673/more-naturally-occurring-trees-and-less-clustering-could-benefit-urban-forests). Future projects will investigate whether tree diversity relates to bird and insect diversity, and whether tree diversity correlates with socieioeconomic status. As they say, [trees grow on money](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4382324/). This project is co-led by Ben Goulet-Scott.
+  </p>
 
 ## Super Black Animals (& Bioinspired Solar Tech)
 [![Birds of Paradise have super black color](/images/Birds_of_Paradise_Website.png)](https://www.nature.com/articles/s41467-017-02088-w)
