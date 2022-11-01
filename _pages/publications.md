@@ -10,11 +10,11 @@ redirect_from:
 ## 2022
 
 <p style="margin-left: 40px; text-indent: -40px;">
-  <b>McCoy, Dakota E.</b>, Dale H. Burns, Elissa Klopfer,  Liam K. Herndon, Babatunde Ogunlade, Sönke Johnsen,  and Jennifer A. Dionne. <i>Under review.</i> "Heart cockles transmit sunlight for photosynthesis using natural fiber optic cables and condensing lenses."  [<a href="https://www.biorxiv.org/content/10.1101/2022.10.28.514291v1">LINK</a>] to preprint.
+  <b>Dakota E. McCoy</b>, Dale H. Burns, Elissa Klopfer,  Liam K. Herndon, Babatunde Ogunlade, Sönke Johnsen,  and Jennifer A. Dionne. <i>Under review.</i> "Heart cockles transmit sunlight for photosynthesis using natural fiber optic cables and condensing lenses."  [<a href="https://www.biorxiv.org/content/10.1101/2022.10.28.514291v1">LINK</a>] to preprint.
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
-  <b>McCoy, Dakota E.</b>, Benjamin Goulet-Scott, Weilin Meng, Bulent Furkan Atahan, Hana Kiros, Misako Nishino, and John Kartesz. 2022.  "A dataset of 5 million city trees: species clustering and climate effects in urban forests." <i>eLife</i>, 11:e77891. [<a href="https://elifesciences.org/articles/77891">LINK</a>] to paper; [<a href="/files/CityTrees_eLife_2022.pdf">PDF version</a>]
+  <b>Dakota E. McCoy</b>, Benjamin Goulet-Scott, Weilin Meng, Bulent Furkan Atahan, Hana Kiros, Misako Nishino, and John Kartesz. 2022.  "A dataset of 5 million city trees: species clustering and climate effects in urban forests." <i>eLife</i>, 11:e77891. [<a href="https://elifesciences.org/articles/77891">LINK</a>] to paper; [<a href="/files/CityTrees_eLife_2022.pdf">PDF version</a>]
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
