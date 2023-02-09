@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-variant:small-caps;">Evolution &#9670; Biophysics &#9670; Data Science</span>
+<span style="font-variant:small-caps;">Evolution &#9670; Biophysics &#9670; Computation</span>
 ====
 
 ***
