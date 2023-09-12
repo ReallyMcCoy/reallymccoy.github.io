@@ -7,6 +7,17 @@ redirect_from:
 
 {% include base_path %}
 
+## 2023
+
+<p style="margin-left: 40px; text-indent: -40px;">
+  <b>Dakota E. McCoy</b>, Allison J. Shultz, Jacqueline E. Dall, Jennifer A. Dionne, Sönke Johnsen. 2023.  "The carotenoid redshift: Physical basis and implications for visual signaling." <i>Ecology and Evolution</i>, 13(9), e10408. [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10408">LINK</a>] to paper; [<a href="/files/Carotenoid_Redshift_EcologyandEvolution_2023.pdf">PDF version</a>]
+</p>
+
+<p style="margin-left: 40px; text-indent: -40px;">
+  Yohan John, Leigh Caldwell, <b>Dakota E. McCoy</b>, and Oliver Braganza. 2023.  "Dead rats, dopamine, performance metrics, and peacock tails: Proxy failure is an inherent risk in goal-oriented systems." <i>Behavioral and Brain Sciences</i>, 1-68. [<a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/dead-rats-dopamine-performance-metrics-and-peacock-tails-proxy-failure-is-an-inherent-risk-in-goaloriented-systems/89408A43F6D14BFD368FE5225A573032">LINK</a>] to paper
+</p>
+
+
 ## 2022
 
 <p style="margin-left: 40px; text-indent: -40px;">
