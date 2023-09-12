@@ -10,6 +10,7 @@ redirect_from:
 ## 2023
 
 <p style="margin-left: 40px; text-indent: -40px;">
+   <img src="/images/Carotenoid_Redshift_COVER_EcologyandEvolution_2023.jpg" width="150" alt="Cover photo of tanager with carotenoid pigments" style="float: right;margin-right: 2px;margin-top: 2px;"/>
   <b>Dakota E. McCoy</b>, Allison J. Shultz, Jacqueline E. Dall, Jennifer A. Dionne, Sönke Johnsen. 2023.  "The carotenoid redshift: Physical basis and implications for visual signaling." <i>Ecology and Evolution</i>, 13(9), e10408. [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10408">LINK</a>] to paper; [<a href="/files/Carotenoid_Redshift_EcologyandEvolution_2023.pdf">PDF version</a>]
 </p>
 
