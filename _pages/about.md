@@ -13,7 +13,7 @@ redirect_from:
 
 ***
 
-**NEWS: The McCoy Lab will open at [U Chicago](https://ecologyandevolution.uchicago.edu/) and the [Marine Biological Lab (MBL)](https://www.mbl.edu/) in Fall 2024!! [Click here to learn more.](www.google.com)**
+**NEWS: The McCoy Lab will open at [U Chicago](https://ecologyandevolution.uchicago.edu/) and the [Marine Biological Lab (MBL)](https://www.mbl.edu/) in Fall 2024!! [Click here to learn more.](https://www.codymccoy.com/join/)**
 
 Nature is interdisciplinary. To best understand and protect the natural world, we need to bring together methods from applied physics, evolutionary theory, computational science, and ecology. Currently, I am a [Stanford Science Fellow](https://stanfordsciencefellows.stanford.edu/meet-fellows) advised by [Jen Dionne](http://dionne.stanford.edu/) and [Steve Palumbi](https://hopkinsmarinestation.stanford.edu/people/stephen-palumbi); I am also supported by the NSF Postdoctoral Research Fellowship, for which I am advised by [Sonke Johnsen](https://opticsoflife.org/). David Haig supervised my PhD at Harvard, where I was an NDSEG Fellow and an Ashford Fellow. Before that, I studied biology at Yale (advised by Leo Buss and Rick Prum) and received an MPhil in enviromental policy as a Rhodes Scholar.
 
