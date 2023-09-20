@@ -23,16 +23,17 @@ I research the architecture of living systems across scales. I am interested in 
     <a href="https://reallymccoy.github.io/research/#optics-of-coral-reefs" target="_blank">
     <img src="/images/Coral_Logo.png" alt="Optics of Coral Reefs" width="45%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://reallymccoy.github.io/research/#city-trees-project" target="_blank">
-    <img src="/images/Trees_Logo.png" alt="City Trees Project" width="45%">
+    <a href="https://reallymccoy.github.io/research/#biology-of-pregnancy" target="_blank">
+    <img src="/images/Pregnancy_Logo.png" alt="Biology of Pregnancy" width="45%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br><br>
     <a href="https://reallymccoy.github.io/research/#super-black-animals-bioinspired-solar-tech" target="_blank">
     <img src="/images/SuperBlack_Logo.png" alt="Super Black Animals" width="45%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://reallymccoy.github.io/research/#biology-of-pregnancy" target="_blank">
-    <img src="/images/Pregnancy_Logo.png" alt="Biology of Pregnancy" width="45%">
+    <a href="https://reallymccoy.github.io/research/#city-trees-project" target="_blank">
+    <img src="/images/Trees_Logo.png" alt="City Trees Project" width="45%">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </div>
 
   \
