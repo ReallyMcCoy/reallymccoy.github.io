@@ -13,15 +13,11 @@ redirect_from:
 
 ***
 
-**NEWS: The McCoy Lab will open at [U Chicago](https://ecologyandevolution.uchicago.edu/) and the [Marine Biological Lab (MBL)](https://www.mbl.edu/) in Fall 2024!!**
+**NEWS: The McCoy Lab will open at [U Chicago](https://ecologyandevolution.uchicago.edu/) and the [Marine Biological Lab (MBL)](https://www.mbl.edu/) in Fall 2024!! [Click here to learn more.](www.google.com)**
 
-Nature is interdisciplinary. To best understand and protect the natural world, we need to bring together methods from applied physics, evolutionary theory, computational science, and ecology.
+Nature is interdisciplinary. To best understand and protect the natural world, we need to bring together methods from applied physics, evolutionary theory, computational science, and ecology. Currently, I am a [Stanford Science Fellow](https://stanfordsciencefellows.stanford.edu/meet-fellows) advised by [Jen Dionne](http://dionne.stanford.edu/) and [Steve Palumbi](https://hopkinsmarinestation.stanford.edu/people/stephen-palumbi); I am also supported by the NSF Postdoctoral Research Fellowship, for which I am advised by [Sonke Johnsen](https://opticsoflife.org/). David Haig supervised my PhD at Harvard, where I was an NDSEG Fellow and an Ashford Fellow. Before that, I studied biology at Yale (advised by Leo Buss and Rick Prum) and received an MPhil in enviromental policy as a Rhodes Scholar.
 
-Currently, I am a [Stanford Science Fellow](https://stanfordsciencefellows.stanford.edu/meet-fellows) advised by [Jen Dionne](http://dionne.stanford.edu/) and [Steve Palumbi](https://hopkinsmarinestation.stanford.edu/people/stephen-palumbi); I am also supported by the NSF Postdoctoral Research Fellowship, for which I am advised by [Sonke Johnsen](https://opticsoflife.org/). David Haig supervised my PhD at Harvard, where I was an NDSEG Fellow and an Ashford Fellow. Before that, I studied biology at Yale (advised by Leo Buss and Rick Prum) and received an MPhil in enviromental policy as a Rhodes Scholar.
-
-My research focuses on strange animals (1) the photonics of “super black” color in birds and spiders; (2) evolutionary conflict in mammalian pregnancies; and (3) the ecology of urban forests—ongoing projects that are, perhaps unintuitively, interrelated.  First-author papers from my projects have appeared in <i>Nature Communications</i>, <i>eLife</i>, <i>Trends in Ecology and Evolution</i>, and <i>Current Biology</i>.
-
-To learn more, click the images below or visit my Research page.
+I research the architecture of living systems across scales. I am interested in strange animals, biophotonics, and game-theoretical conflicts of interest in evolution. Right now, I research solar-powered animals such as corals, bivalve mollusks, and other reef creatures to learn about (i) the biophotonics of photosynthesis, (ii) host-symbiont evolutionary conflict, and (iii) coral bleaching. My other projects range from "super black" color in birds and spiders to genetic conflicts in human pregnancy. To learn more, click the images below or visit my Research page.
 
 <div align="center">
     <a href="https://reallymccoy.github.io/research/#optics-of-coral-reefs" target="_blank">
