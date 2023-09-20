@@ -30,9 +30,9 @@ I have many research ideas-- too many!-- and hope that one or more will interest
 - host-symbiont conflict (lab experiments)
 - biology of reproduction (computation, potentially field work and lab work)
 
-I would also be delighted to support students who wish to work on the biology of pregnancy in mammals and evolutionary conflicts over reproduction. Interesting clades include marsupials, elephants, bears, and more. My previous work has focused on zoo data records and evolutionary theory. 
+I would also be delighted to support students who wish to work on the **biology of pregnancy in mammals and evolutionary conflicts over reproduction**. Interesting clades include marsupials, elephants, bears, and more. My previous work has focused on zoo data records and evolutionary theory. 
 
-Finally, if you wish to work on color science or city tree ecology, I'd love to hear from you and discuss potential projects. 
+Finally, if you wish to work on **color science** or **city tree ecology**, I'd love to hear from you and discuss potential projects. 
 
 ## Mentorship Philosophy
 
