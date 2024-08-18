@@ -7,6 +7,17 @@ redirect_from:
 
 {% include base_path %}
 
+## 2024
+
+<p style="margin-left: 40px; text-indent: -40px;">
+ <b>Dakota E. McCoy</b>, David Haig, and Jennifer Kotler. 2024. "Egg donation and gestational surrogacy: Pregnancy is riskier with an unrelated embryo." <i>Early Human Development</i>: 106072.[<a href="https://www.sciencedirect.com/science/article/pii/S0378378224001415">LINK</a>] to paper; [<a href="/files/Egg-donation-gestational-surrogacy_EHD_2024.pdf">PDF version</a>]
+</p>
+
+<p style="margin-left: 40px; text-indent: -40px;">
+ Oliver Braganza, Yohan J. John, Leigh Caldwell, and <b>Dakota E. McCoy</b>. 2024. Teleonomy, legibility, and diversity: Do we need more “proxynomics?". <i>Behavioral and Brain Sciences</i> 47 (2024): e88. [<a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/teleonomy-legibility-and-diversity-do-we-need-more-proxynomics/43A38B95F16E8388E5FA92B47A2DD01B">LINK</a>] to paper]
+</p>
+
+
 ## 2023
 
 <p style="margin-left: 40px; text-indent: -40px;">
