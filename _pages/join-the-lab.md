@@ -8,12 +8,11 @@ redirect_from:
 The McCoy lab will open at at [U Chicago](https://ecologyandevolution.uchicago.edu/) and the [Marine Biological Lab (MBL)](https://www.mbl.edu/) in Fall 2024!! I'm hiring at all levels, and I'd love to hear from you! I will spend most of the year in Chicago, IL and a few months each year in Woods Hole, MA at the MBL. My lab members are welcome to live in either place, and I'll fund trips between the two.
 
 ## Contact Me to Convey Your Interest
-If you are interested in joining my lab, please contact me! Email your resume to mccoy6[at]stanford.edu and tell me a little bit about your interests. We will set up a zoom or phone call to discuss further.
+If you are interested in joining my lab, please contact me! Email your resume to therealmccoy[at]uchicago.edu and tell me a little bit about your interests. We will set up a zoom or phone call to discuss further.
 
 ## Open Positions
 
-Starting now (Aug 2023), I am still looking to recruit one or more candidates at these levels:
-- lab manager
+Starting now (Sep 2024), I am still happy to recruit one or more candidates at these levels:
 - postdoctoral scholar
 - PhD student
 - MD / PhD student to complete the research portion of their training
