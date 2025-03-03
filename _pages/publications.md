@@ -10,7 +10,7 @@ redirect_from:
 ## 2024
 
 <p style="margin-left: 40px; text-indent: -40px;">
-  <b>Dakota E. McCoy*</b>, Dale H. Burns, Elissa Klopfer, Liam K. Herndon, Babatunde Ogunlade, Jennifer A. Dionne*, and Sönke Johnsen*. "Heart cockle shells transmit sunlight to photosymbiotic algae using bundled fiber optic cables and condensing lenses." <i></i>Nature Communications</p>i> 15, no. 1 (2024): 9445. [<a href="https://www.nature.com/articles/s41467-024-53110-x">LINK</a>] to paper; [<a href="/files/HeartCockles_NatureComms_2024.pdf">PDF version</a>]
+  <b>Dakota E. McCoy*</b>, Dale H. Burns, Elissa Klopfer, Liam K. Herndon, Babatunde Ogunlade, Jennifer A. Dionne*, and Sönke Johnsen*. "Heart cockle shells transmit sunlight to photosymbiotic algae using bundled fiber optic cables and condensing lenses." <i>Nature Communications</i> 15, no. 1 (2024): 9445. [<a href="https://www.nature.com/articles/s41467-024-53110-x">LINK</a>] to paper; [<a href="/files/HeartCockles_NatureComms_2024.pdf">PDF version</a>]
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
