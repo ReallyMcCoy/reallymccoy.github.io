@@ -14,6 +14,10 @@ redirect_from:
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
+  <b>Dakota E. McCoy</b>, Jennifer Kotler*, Brianna Weir, Arvid Ågren. "Explanations of the obstetric dilemma: evolutionary conflict exacerbates health problems in pregnancy and childbirth," 2025. [<a href="https://ecoevorxiv.org/repository/view/8624/">LINK</a>] to preprint
+</p>
+
+<p style="margin-left: 40px; text-indent: -40px;">
  <b>Dakota E. McCoy</b>, David Haig, and Jennifer Kotler. 2024. "Egg donation and gestational surrogacy: Pregnancy is riskier with an unrelated embryo." <i>Early Human Development</i>: 106072.[<a href="https://www.sciencedirect.com/science/article/pii/S0378378224001415">LINK</a>] to paper; [<a href="/files/Egg-donation-gestational-surrogacy_EHD_2024.pdf">PDF version</a>]
 </p>
 
