@@ -10,6 +10,10 @@ redirect_from:
 ## 2024
 
 <p style="margin-left: 40px; text-indent: -40px;">
+  <b>Dakota E. McCoy*</b>, Dale H. Burns, Elissa Klopfer, Liam K. Herndon, Babatunde Ogunlade, Jennifer A. Dionne*, and Sönke Johnsen*. "Heart cockle shells transmit sunlight to photosymbiotic algae using bundled fiber optic cables and condensing lenses." <i></i>Nature Communications</p>i> 15, no. 1 (2024): 9445. [<a href="https://www.nature.com/articles/s41467-024-53110-x">LINK</a>] to paper; [<a href="/files/HeartCockles_NatureComms_2024.pdf">PDF version</a>]
+</p>
+
+<p style="margin-left: 40px; text-indent: -40px;">
  <b>Dakota E. McCoy</b>, David Haig, and Jennifer Kotler. 2024. "Egg donation and gestational surrogacy: Pregnancy is riskier with an unrelated embryo." <i>Early Human Development</i>: 106072.[<a href="https://www.sciencedirect.com/science/article/pii/S0378378224001415">LINK</a>] to paper; [<a href="/files/Egg-donation-gestational-surrogacy_EHD_2024.pdf">PDF version</a>]
 </p>
 
@@ -31,10 +35,6 @@ redirect_from:
 
 
 ## 2022
-
-<p style="margin-left: 40px; text-indent: -40px;">
-  <b>Dakota E. McCoy</b>, Dale H. Burns, Elissa Klopfer,  Liam K. Herndon, Babatunde Ogunlade, Sönke Johnsen,  and Jennifer A. Dionne. <i>Under review.</i> "Heart cockles transmit sunlight for photosynthesis using natural fiber optic cables and condensing lenses."  [<a href="https://www.biorxiv.org/content/10.1101/2022.10.28.514291v1">LINK</a>] to preprint.
-</p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
   <b>Dakota E. McCoy</b>, Benjamin Goulet-Scott, Weilin Meng, Bulent Furkan Atahan, Hana Kiros, Misako Nishino, and John Kartesz. 2022.  "A dataset of 5 million city trees: species clustering and climate effects in urban forests." <i>eLife</i>, 11:e77891. [<a href="https://elifesciences.org/articles/77891">LINK</a>] to paper; [<a href="/files/CityTrees_eLife_2022.pdf">PDF version</a>]
