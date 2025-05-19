@@ -20,7 +20,7 @@ redirect_from:
   
 
 <br>
-Through the Climate Solutions Living Lab at Harvard Law School, Wendy Jacobs taught me how to apply science to issues of environmental policy. She passed away this year (2021), leaving a giant-sized positive imprint on the world through her law, teaching, and advocacy.
+Through the Climate Solutions Living Lab at Harvard Law School, Wendy Jacobs taught me how to apply science to issues of environmental policy. She passed away in 2021, leaving a giant-sized positive imprint on the world through her law, teaching, and advocacy.
 
 
 
@@ -63,9 +63,6 @@ Volunteer Data Scientist
 
 www.covidloantracker.com/ 
 
-Crowd-sourced effort to track the disbursement of government loans to small businesses during the covid19 crisis 
-- Data visualization, data analysis, and website design. 
--	Received survey replies from >30,000 small businesses, received news coverage in CNN, NBC Miami, Business Insider, Forbes, the LA Times, and more.
 
 ## Harvard GrEAT: Environmental Action
 <b>[Harvard GSAS Environmental Action Team](https://www.facebook.com/HarvardGrEAT) </b>
@@ -74,13 +71,4 @@ Co-founder and President 2016-2019, Executive Board 2020.
 https://www.facebook.com/HarvardGrEAT
 
 https://actioncoalition.fas.harvard.edu/
-
-Graduate students for environmental justice. Averaging three focal topics per semester, we encourage graduate students to use their research skills for good and become engaged citizens. For example, we:
-- Wrote and submitted multiple public comments to Regulations.gov on oil and gas leasing, the preservation of wild lands, and more. Partnered with the Harvard Law School Emmett Environmental Policy Clinic
-- Hosted multiple letter-writing, text-banking, and phone-banking advocacy sessions
-- Wrote the Harvard Against Solitary Confinement petition (over 400 signatures) and submitted it to legislators; prompted Representative Denise Provost to submit a proposed amendment about solitary confinement programming to the Massachusetts omnibus criminal justice bill
-
-## Harvard Votes Challenge
-Co-chair, Graduate School of Arts and Sciences 
-- Nonpartisan initiative to get out the vote at Harvard
 
