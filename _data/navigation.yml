@@ -27,5 +27,5 @@ main:
 #  - title: "Join The Lab"
 #    url: /join/
     
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "How To"
+    url: /how-to/
