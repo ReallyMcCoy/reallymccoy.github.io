@@ -24,8 +24,8 @@ main:
   - title: "Fun"
     url: /fun/
 
-  - title: "Join The Lab"
-    url: /join/
+#  - title: "Join The Lab"
+#    url: /join/
     
 #  - title: "Guide"
 #    url: /markdown/
