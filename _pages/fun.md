@@ -7,6 +7,10 @@ redirect_from:
 
 This page is just for fun.
 
+## Pittsburgh, Greatest City in the USA
+
+People often ask me what to do in Pittsburgh, City of Bridges, Steel City, City of Champions. Where to begin? Check out my [PDF guide here](https://www.codymccoy.com/files/Pittsburgh-what-to-do.pdf). 
+
 ## Bookbinding
 
 At Harvard, I taught bookbinding courses in the [Bow and Arrow Press](https://www.instagram.com/bowarrowpress). My students made amazing hand-bound copies of works by Oscar Wilde, Lewis Carroll, Simone de Beauvoir, their own family's recipe books, Shakespeare, and more. Below are images of a few books I have bound over the years.
