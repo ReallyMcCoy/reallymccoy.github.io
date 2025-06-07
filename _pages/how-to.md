@@ -14,8 +14,8 @@ Do you want to write a lovely introduction to your PhD dissertation, design a pr
 <p float="left">
   <img src="/images/Dissertation_cover.jpg" width ="175" />
   <img src="/images/Dissertation_0.jpg" width ="175" /> 
-  <img src="/images/Dissertation_7.jpg" width ="175" />
-  <img src="/images/Dissertation_7A.jpg" width ="175" />
+  <img src="/images/Dissertation_5.jpg" width ="175" />
+  <img src="/images/Dissertation_5A.jpg" width ="175" />
 </p>
 
 ## Use Optical Modeling for a Biological Question
