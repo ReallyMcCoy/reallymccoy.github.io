@@ -18,13 +18,10 @@ Do you want to write a lovely introduction to your PhD dissertation, design a pr
   <img src="/images/Dissertation_5A.jpg" width ="175" />
 </p>
 
-## Use Optical Modeling for a Biological Question
+## Use FDTD Modeling for Biology
 
-Text [Link](https://www.instagram.com/bowarrowpress). Text. 
+Check out the [primer](https://www.codymccoy.com/files/FDTD_Methods_Primer_MICRON_2021.pdf) that Anna  Shneidman, Alex Davis, Joanna Aizenberg and I wrote on finite-difference time-domain optical simulations for biology. In particular, review the flow chart Anna designed in Figure 2 to help you decide whether to use FDTD (or another method). 
 
 <p float="left">
-  <img src="/images/Book_2.jpg" width ="175" />
-  <img src="/images/Book_1.jpg" width ="175" /> 
-  <img src="/images/Book_3.jpg" width ="175" />
-  <img src="/images/Book_4.jpg" width ="175" />
+  <img src="/images/FDTD_flowchart.jpeg" width ="175" />
 </p>
