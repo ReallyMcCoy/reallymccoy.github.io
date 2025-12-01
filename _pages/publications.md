@@ -20,7 +20,7 @@ redirect_from:
 ## 2024
 
 <p style="margin-left: 40px; text-indent: -40px;">
-  <b>Dakota E. McCoy</b>, David Haig, and Jennifer Kotler. "Egg donation and gestational surrogacy: Pregnancy is riskier with an unrelated embryo." <i>Early Human Development</i> 196 (2024): 106072. [<a href="https://doi.org/10.1016/j.earlhumdev.2024.106072">LINK</a>] to paper; [<a href="/files/EggDonation_Surrogacy_2024.pdf">PDF version</a>]
+  <b>Dakota E. McCoy</b>, David Haig, and Jennifer Kotler. "Egg donation and gestational surrogacy: Pregnancy is riskier with an unrelated embryo." <i>Early Human Development</i> 196 (2024): 106072. [<a href="https://doi.org/10.1016/j.earlhumdev.2024.106072">LINK</a>] to paper; [<a href="/files/Egg-donation-gestational-surrogacy_EHD_2024.pdf">PDF version</a>]
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
