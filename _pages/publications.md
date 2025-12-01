@@ -6,8 +6,22 @@ redirect_from:
 ---
 
 {% include base_path %}
+## 2025
+
+<p style="margin-left: 40px; text-indent: -40px;">
+  <b>Dakota E. McCoy</b>, Brendan Cornwell, Sönke Johnsen, and Jennifer A. Dionne. “Host-symbiont conflict in reef-building corals and the risk of bleaching.” In <i>The Paradox of the Organism: Adaptation and Internal Conflict</i>, Chapter 10 (in press). [<a href="https://www.hup.harvard.edu/books/9780674296381">LINK</a> to book]
+</p>
+
+<p style="margin-left: 40px; text-indent: -40px;">
+  Devin A. King, <b>Dakota E. McCoy</b>, Soumil Ghosh, Adrian Perdyan, Jakub Mieczkowski, Thierry Douki, Jennifer A. Dionne, Rafael E. Herrera, and Ashby J. Morrison. "p53 regulates nuclear architecture to reduce carcinogen sensitivity and mutagenic potential." <i>bioRxiv</i> (2025). [<a href="https://www.biorxiv.org/content/10.1101/2024.09.14.613067v2">LINK</a>] to paper.
+</p>
+
 
 ## 2024
+
+<p style="margin-left: 40px; text-indent: -40px;">
+  <b>Dakota E. McCoy</b>, David Haig, and Jennifer Kotler. "Egg donation and gestational surrogacy: Pregnancy is riskier with an unrelated embryo." <i>Early Human Development</i> 196 (2024): 106072. [<a href="https://doi.org/10.1016/j.earlhumdev.2024.106072">LINK</a>] to paper; [<a href="/files/EggDonation_Surrogacy_2024.pdf">PDF version</a>]
+</p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
   <b>Dakota E. McCoy*</b>, Dale H. Burns, Elissa Klopfer, Liam K. Herndon, Babatunde Ogunlade, Jennifer A. Dionne*, and Sönke Johnsen*. "Heart cockle shells transmit sunlight to photosymbiotic algae using bundled fiber optic cables and condensing lenses." <i>Nature Communications</i> 15, no. 1 (2024): 9445. [<a href="https://www.nature.com/articles/s41467-024-53110-x">LINK</a>] to paper; [<a href="/files/HeartCockles_NatureComms_2024.pdf">PDF version</a>]
