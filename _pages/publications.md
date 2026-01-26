@@ -6,6 +6,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+## 2026
+<p style="margin-left: 40px; text-indent: -40px;">
+  <b>Dakota E. McCoy</b>. “Characterizing and quantifying color.” In forthcoming book Bird Coloration, ed.s Geoffrey Hill and Kevin McGraw. Oxford University Press. [<a href="/files/CharacterizingandQuantifyingColoration_MS_Hill-and-McGraw2026.pdf">LINK</a> to preprint]
+</p>
+
 ## 2025
 
 <p style="margin-left: 40px; text-indent: -40px;">
