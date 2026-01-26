@@ -14,7 +14,7 @@ redirect_from:
 ## 2025
 
 <p style="margin-left: 40px; text-indent: -40px;">
-  <b>Dakota E. McCoy</b>, Brendan Cornwell, Sönke Johnsen, and Jennifer A. Dionne. “Host-symbiont conflict in reef-building corals and the risk of bleaching.” In <i>The Paradox of the Organism: Adaptation and Internal Conflict</i>, Chapter 10 (in press). [<a href="https://www.hup.harvard.edu/books/9780674296381">LINK</a> to book]
+  <b>Dakota E. McCoy</b>, Brendan Cornwell, Sönke Johnsen, and Jennifer A. Dionne. “Host-symbiont conflict in reef-building corals and the risk of bleaching.” In <i>The Paradox of the Organism: Adaptation and Internal Conflict</i>, Chapter 10 (2025). 273. [<a href="https://www.hup.harvard.edu/books/9780674296381">LINK</a> to book; [<a href="/files/HostSymbiontConflictReefBuildingCorals_ParadoxoftheOrganism_2025.pdf">PDF version</a>]
 </p>
 
 <p style="margin-left: 40px; text-indent: -40px;">
